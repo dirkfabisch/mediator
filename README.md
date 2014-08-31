@@ -23,7 +23,7 @@ Getting Started
 ---
 - [Fork this repository](https://github.com/dirkfabisch/mediator)
 - Clone it: `git clone https://github.com/YOUR-USER/mediator`
-- Install the [GitHub Pages gem][pages] (includes Jekyll): `bundle install`
+- Install the [GitHub Pages gem](https://github.com/github/pages-gem) (includes Jekyll): `bundle install`
 - Run the jekyll server: `jekyll serve`
 
 You should have a server up and running locally at <http://localhost:4000>.
