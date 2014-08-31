@@ -21,7 +21,7 @@ Features
 
 Getting Started
 ---
-- [Fork this repository][fork]
+- [Fork this repository](https://github.com/dirkfabisch/mediator)
 - Clone it: `git clone https://github.com/YOUR-USER/mediator`
 - Install the [GitHub Pages gem][pages] (includes Jekyll): `bundle install`
 - Run the jekyll server: `jekyll serve`
