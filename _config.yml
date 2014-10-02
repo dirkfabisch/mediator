@@ -3,9 +3,9 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Mediator"
+title: "Intelligent Design"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Design is the act of creating intentionally.  
 
 email: lesley@lesleybell.com
 #blog logo
