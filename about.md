@@ -4,14 +4,9 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+I am an experience designer who is fascinated by the relationship between humans and our tools.  Our technology has influenced our evolution as a species and is continuing to do so at an exponential rate.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+What happens when we can have information in front of our eyes every single moment?  What will reality look like when we can augment it in any way we want? When technology is potentially present in every moment, design becomes more important to the success of products and services than ever before.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am excited to shape brand new interactions that will change how people use technology. I also enjoy building small electronics, making art in traditional and digital media, and running long distances.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
