@@ -9,9 +9,9 @@ description: > # this means to ignore newlines until "email:"
 
 email: lesley@lesleybell.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "https://cloud.githubusercontent.com/assets/5618996/4511505/6fb039ae-4b35-11e4-9f78-9844f9e4e308.png"
 # blog cover
-cover: "https://cloud.githubusercontent.com/assets/5618996/4500473/e61a9880-4a92-11e4-985f-5c2579445c1f.jpeg"
+cover: "https://cloud.githubusercontent.com/assets/5618996/4511514/891b2b9c-4b35-11e4-9e4d-6a3852dda0dd.jpg"
 
 name: 'Lesley Bell'
 author: 'Lesley Bell'
