@@ -3,9 +3,9 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Intelligent Design"
+title: "Lesley Bell"
 description: > # this means to ignore newlines until "email:"
-   Design is the act of creating intentionally.  
+   I'm a UX designer and developer based in the San Francisco Bay area.
 
 email: lesley@lesleybell.com
 #blog logo
@@ -15,7 +15,7 @@ cover: "https://cloud.githubusercontent.com/assets/5618996/4511514/891b2b9c-4b35
 
 name: 'Lesley Bell'
 author: 'Lesley Bell'
-author_image: "/assets/images/author.jpg"
+author_image: "https://cloud.githubusercontent.com/assets/5618996/4512726/ade16492-4b43-11e4-8763-00ddab1ed88e.jpg"
 
 paginate:	5
 
@@ -39,15 +39,15 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/tinkerb
     desc:	Fork me on github
     share_url:
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+ - icon:	google-plus
+   url:	https://google.com/lbx2045
+    desc:	Add me on google+
+    share_url:
+    share_title:
+    share_link:
