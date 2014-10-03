@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
 I am an experience designer who is fascinated by the relationship between humans and our tools.  Our technology has influenced our evolution as a species and is continuing to do so at an exponential rate.
 
 What happens when we can have information in front of our eyes every single moment?  What will reality look like when we can augment it in any way we want? When technology is potentially present in every moment, design becomes more important to the success of products and services than ever before.
