@@ -3,19 +3,19 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Mediator"
+title: "Lesley Bell"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   I'm a UX designer and developer based in the San Francisco Bay area.
 
-email: a-mail@mail.mail
+email: lesley@lesleybell.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "https://cloud.githubusercontent.com/assets/5618996/4513019/415d9152-4b47-11e4-81e0-231335473c37.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "https://cloud.githubusercontent.com/assets/5618996/4511514/891b2b9c-4b35-11e4-9e4d-6a3852dda0dd.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'Lesley Bell'
+author: 'Lesley Bell'
+author_image: "https://cloud.githubusercontent.com/assets/5618996/4512726/ade16492-4b43-11e4-8763-00ddab1ed88e.jpg"
 
 paginate:	5
 
@@ -25,7 +25,7 @@ baseurl: ""
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/lb2045
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -39,15 +39,15 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/tinkerb
     desc:	Fork me on github
     share_url:
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+ - icon:	google-plus
+   url:	https://google.com/lbx2045
+    desc:	Add me on google+
+    share_url:
+    share_title:
+    share_link:
