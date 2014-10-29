@@ -50,6 +50,7 @@ layout: default
 
 <main class="content" role="main">
 
+    {% if site.tags.featured %}
     <h5 class="index-headline featured"><span>Featured</span></h5>
 
     <div class="container featured">
@@ -72,6 +73,7 @@ layout: default
     </div>
 
     <h5 class="index-headline normal"><span>Regular</span></h5>
+    {% endif %}
 
     <div class="cf frame">
       {% for post in paginator.posts %}
