@@ -22,6 +22,9 @@ paginate:	5
 url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
 
+#fill in disgus shortname to use disgus
+#disgus: disgus-shortname
+
 # social icons and sharing options
 social:
   - icon:	twitter
