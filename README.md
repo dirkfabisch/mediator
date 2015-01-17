@@ -47,7 +47,7 @@ Main settings for the site
 * **email**: mail address of the site owner
 * **author**: author name
 * **author_image**: small image of author (300x * 300px)
-
+* **disqus**: add a disqus forum for your post
 
 ### Social
 
