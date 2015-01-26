@@ -9,45 +9,60 @@ description: > # this means to ignore newlines until "email:"
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "df_logo.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+author_image: "author.jpg"
 
-paginate:	5
+paginate: 5
 
 url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
 
+# asset pipline configuration
+assets:
+  js_compressor:  uglifier
+  css_compressor: sass
+  cache:          true
+
+# exclude files we don't want to publish
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - .gitignore
+  - .ruby-version
+
+
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+  - icon: twitter
+    url:  https://twitter.com/dirkfabisch
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
+#  - icon: facebook
+#    url: https://facebook.com/???
 #    desc: Connect with me facebook
 #    share_url: //www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+  - icon: github
+    url:  https://github.com/dirkfabisch
+    desc: Fork me on github
     share_url:
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
+#  - icon: google-plus
+#    url:  https://google.com/???
+#    desc: Add me on google+
 #    share_url:
 #    share_title:
 #    share_link:
