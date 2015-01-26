@@ -14,5 +14,3 @@ gem 'jekyll-sitemap'
 gem "coffee-script"
 gem "uglifier"
 gem "sass"
-
-gem "pry"
