@@ -6,9 +6,9 @@ A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme
 
 Screenshots
 --------
-![screenshot](/assets/images/screenshot1.jpg)
-![screenshot](/assets/images/screenshot2.jpg)
-![screenshot](/assets/images/screenshot3.jpg)
+![screenshot](/_assets/images/screenshot1.jpg)
+![screenshot](/_assets/images/screenshot2.jpg)
+![screenshot](/_assets/images/screenshot3.jpg)
 
 Features
 -------
