@@ -9,6 +9,6 @@ image: /assets/article_images/2015-04-24-meteor_typescript/Cosmic_Fireball_Falli
 ---
 We're excited to introduce our blog.
 
-We will be writing about how the product takes it shapes, share the insights from our research on how the innovative ways gathering and analyzing data, how we approach the growth of the company and, last but not least, about technology.
+We will share the insights from our research on the innovative ways of gathering and analyzing data, let you know how the product takes its shape, how we approach the growth of the company and, last but not least, our view on technology.
 
-We hope you'll enjoy it and count on your feedback!
+We hope you'll enjoy it and we count on your feedback!
