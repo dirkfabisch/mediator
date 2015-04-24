@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Mediator Features"
-date:   2014-11-30 14:34:25
-categories: mediator feature
-tags: featured
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
+title:  "Meteor&nbsp;+&nbsp;Typescript&nbsp;=&nbsp;<3"
+author: marek
+date:   2014-08-29 14:34:25
+categories: jekyll update
+tags:
+image: /assets/article_images/2015-04-24-meteor_typescript/Cosmic_Fireball_Falling_Over_ALMA.jpg
 ---
 #Mediator Formats and CSS features
 
