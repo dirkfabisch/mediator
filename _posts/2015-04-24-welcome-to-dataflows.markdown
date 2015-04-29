@@ -5,7 +5,7 @@ author: marek
 date:   2015-04-24 17:34:25
 categories: jekyll update
 tags:
-image: /assets/article_images/2015-04-24-meteor_TypeScript/Cosmic_Fireball_Falling_Over_ALMA.jpg
+image: /assets/article_images/2015-04-24-meteor_typescript/Cosmic_Fireball_Falling_Over_ALMA.jpg
 ---
 We're excited to introduce our blog.
 
