@@ -13,7 +13,7 @@ It was big news for the web development community when Google & Microsoft announ
 
 We’ve been using TypeScript in development for more than a year now, and now that we became fans of Meteor, it was crucial for us to make it run on TypeScript. Although there are still some rough edges, it has worked brilliantly and already saved us a lot of time.
 
-#It’s painful to build large Meteor projects with pure JavaScript
+#It’s painful to build <u>large</u> Meteor projects with pure JavaScript
 Dynamic typing in JavaScript surely streamlines writing the code, especially at the beginning, but it makes development much more costly as the project moves on. Function declarations bear no meaning about the types of the arguments and bad design is encouraged. It also limits the support the IDEs can give. In contrast, static typing turns the code into its own documentation and lets the IDEs support refactoring extensively, while acting as the first layer guarding against introduction of errors.
 
 Meteor’s design makes it extremely easy to start building impressive applications with it.  However, this comes at a cost of things being magically matched between files by their names and injected in various places. This is especially true when you’re using the great Iron:Router package, which provides URL routes, controllers and layouts. It’s just too easy for changes to break things, since all the matching of methods names, session variable names, templates’ helpers, events and data is done by their string names and all related errors happen on runtime.
@@ -22,7 +22,7 @@ Meteor projects often struggle with regression errors, that could be eliminated 
 
 # What is TypeScript?
 
-TypeScript is a language compiled to JavaScript. Since it’s a superset of JS, every JS program becomes a TypeScript program once you change the file extension to `.ts`. TypeScript introduces static types, classes, modules and lambda functions, all compiled to readable code that could have been written by an experienced JavaScript developer. Essentially, it provides static types + a ton of features from upcoming ECMAScript standards (ES5, ES6, even ES7).
+TypeScript is a language compiled to JavaScript. Since it’s a superset of JS, every JS program becomes a TypeScript program once you change the file extension to `.ts`. TypeScript introduces static types, classes, modules and lambda functions, all compiled to readable code that could have been written by an experienced JavaScript developer. Essentially, it provides static types + a ton of features from upcoming ECMAScript standards (ES6 and even ES7).
 
 One of the crucial features is the possibility to describe existing JS libraries' APIs with _typings_. Interestingly, in addition to documenting the libraries, this process often has the side effect of revealing some poorly designed points in many of them.
 
@@ -34,7 +34,7 @@ The first step is to write as much as possible of the logic in well-structured a
 The second step is move the integration further and use a set of wrappers around core Meteor features, which add static typing to method calls, templates and route controllers. Although there is still much to be done, we’re open-sourcing this set of wrappers today.
 
 ## Configuring project compilation
-We recommend to write Meteor apps in TypeScript by keeping TypeScript code with the Meteor app and compile it into three files: `client/client.js`, `server/server.js` and `lib/shared.js`. There is the (meteor-TypeScript-compiler)[https://github.com/meteor-TypeScript/meteor-TypeScript-compiler] package, but it not yet ready to be used, since it cannot handle multiple interdependent TypeScript files (if anything changes, please let us know!)
+We recommend to write Meteor apps in TypeScript by keeping TypeScript code with the Meteor app and compile it into three files: `client/client.js`, `server/server.js` and `lib/shared.js`. There is the (meteor-typescript-compiler)[https://github.com/meteor-typescript/meteor-typescript-compiler] package, but it not yet ready to be used, since it cannot handle multiple interdependent TypeScript files (if anything changes, please let us know!)
 
 The compilation can be done manually with:
 
@@ -46,16 +46,16 @@ tsc shared/**/*.ts --out lib/shared.js -target ES5
 
 This can be nicely automated e.g. with Gulp. You can use our config as a starter.
 
-Another option is to use _tsconfig_, which is a new way of describing TypeScript projects introduced in version 1.5. The downside is that with the `--out` option it does not support multiple compilation targets, so there's some hacking needed.
+Another option is to use _tsconfig_, which is a new way of describing TypeScript projects introduced in version 1.5. The downside is that with the `--out` option it does not support multiple compilation targets, so there's some hacking needed if you want to build into client, server and shared files.
 
-## Meteor typings and dataflows:TypeScript-utils package
-The set of wrappers is located at [github.com/dataflows/meteor-TypeScript-utils](https://github.com/dataflows/meteor-TypeScript-utils) and can be installed with:
+## Meteor typings and dataflows:typescript-utils package
+The set of wrappers is located at [github.com/dataflows/meteor-typescript-utils](https://github.com/dataflows/meteor-typescript-utils) and can be installed with:
 
-```meteor add dataflows:TypeScript-utils```
+```meteor add dataflows:typescript-utils```
 
 You will also need typings for the wrappers and for Meteor standard API, so that they can be used in TypeScript code with static types. You can simply copy over the `typings` directory from the repository into your project.
 
-There is a sample app built with this setup located at [github.com/dataflows/meteor-TypeScript-utils-example](https://github.com/dataflows/meteor-TypeScript-utils-example). This repository also contains the Gulp configs, so that you can `gulp run` to compile and start Meteor and `gulp make` to just recompile TypeScript code.
+There is a sample app built with this setup located at [github.com/dataflows/meteor-typescript-utils-example](https://github.com/dataflows/meteor-typescript-utils-example). This repository also contains the Gulp configs, so that you can `gulp run` to compile and start Meteor and `gulp make` to just recompile TypeScript code.
 
 ## Blaze templates
 
@@ -83,7 +83,7 @@ Template["AppsListMenu"].events({
 
 Although this gives the static types information in some places, there are still a lot of variables which are typed as `any` here. Most troubles are caused by the fact that we don't have any information about the variables injected into `this` by Meteor, such as data from the route controller or the parent template. For exampke, the compiler would accept `this.someUndefinedVar.whateverNonexistentProperty` just as it accepts `this.user.isAdmin`.
 
-With `dataflows:TypeScript-utils`, we can write templates, methods and route controllers in a safer and (hopefully) more elegant way. To write template code, we start by defining the types for the injected data:
+With `dataflows:typescript-utils`, you can write templates, methods and route controllers in a safer and, arguably, more elegant way. To write template code, we start by defining the types for the injected data:
 
 {% highlight javascript %}
 class AppsListMenuData {
