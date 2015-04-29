@@ -25,6 +25,23 @@ authors:
         name: 'Marek Rogala'
         author: 'Marek Rogala'
         image: "/assets/images/author.jpg"
+        bio: "CTO at Dataflows"
+    filip:
+        name: 'Filip Stachura'
+        author: 'Filip Stachura'
+        image: ""
+    damian:
+        name: 'Damian Rodziewicz'
+        author: 'Damian Rodziewicz'
+        image: ""
+    pawel:
+        name: 'Paweł Przytuła'
+        author: 'Paweł Przytuła'
+        image: ""
+    krolek:
+        name: 'Piotr Kroll'
+        author: 'Piotr Kroll'
+        image: ""
 
 paginate:	5
 
