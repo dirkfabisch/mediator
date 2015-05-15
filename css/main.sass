@@ -45,16 +45,16 @@ body
   top: 10px
   width: $rs*3
   height: $rs*3
-  background-color: #000
+  background-color: #fff
   overflow: hidden
   z-index: 99
   .logo
     display: block
     position: absolute
-    top: $rs/2
-    left: $rs/2
-    width: $rs*2
-    height: $rs*2
+    top: 1px
+    left: 1px
+    width: $rs*3-2
+    height: $rs*3-2
     background-size: cover
     background-repeat: no-repeat
 
@@ -76,7 +76,7 @@ body
 
 .blog-header
   width: 100%
-  max-width: 640px
+  max-width: 700px
   margin: 0 auto
   position: relative
   padding: 0
@@ -130,7 +130,7 @@ body
 
 .content
   width: 100%
-  max-width: 640px
+  max-width: 700px
   margin: 0 auto
   @include box-sizing(border-box)
   @include respond-to(800)
@@ -159,7 +159,8 @@ body
       font-style: normal
       font-size: 20px
       line-height: 1.3
-      color: #666665
+      color: rgba(0,0,0,0.8)
+      font-family: $font-serif
     .post-meta
       font-size: 14px
       color: #b3b3b1
@@ -221,7 +222,7 @@ body
   margin: 0 auto
   padding: $rs*3 0
   width: 100%
-  max-width: 640px
+  max-width: 700px
   font-size: $rs/4*3
   text-align: center
   color: #999
@@ -253,8 +254,10 @@ body
     .post-meta
       position: absolute
       bottom: $rs*5
-      left: 30%
-      right: 30%
+      left: 0
+      right: 0
+      max-width: 700px
+      margin: 0 auto
       z-index: 9
       font-family: $font-sans
       @include box-sizing(border-box)
@@ -266,6 +269,16 @@ body
       font-style: normal
       letter-spacing: -0.04em
       font-size: 50px
+      line-height: 1.1
+      color: #fff
+      margin-bottom: 16px
+      text-shadow: 0px 1px 16px rgba(0,0,0,0.5), 0px 0px 1px rgba(0,0,0,0.5)
+    .post-subtitle
+      font-family: $font-serif
+      font-weight: 400
+      font-style: normal
+      letter-spacing: -0.02em
+      font-size: 24px
       line-height: 1.1
       color: #fff
       margin-bottom: 16px
@@ -536,7 +549,7 @@ body
     width: 100%
     position: relative
     z-index: 99
-    max-width: 640px
+    max-width: 700px
     padding: 120px 0 90px
     text-align: center
     margin: 0 auto

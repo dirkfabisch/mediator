@@ -3,32 +3,56 @@ markdown: redcarpet
 highlighter: pygments
 gems:
   - jemoji
-  
+
 # Site settings
-title: "Mediator"
+title: "Dataflows blog"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   When spreadsheets become apps.
 
-email: a-mail@mail.mail
+email: hello@dataflows.io
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/icon.png"
+logoColorful: "/assets/images/icon_violet.png"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/hero-section-background.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'Dataflows'
+author: 'Dataflows'
+author_image: "/assets/images/icon.png"
+
+authors:
+    marek:
+        name: 'Marek Rogala'
+        author: 'Marek Rogala'
+        image: "/assets/images/author.jpg"
+        bio: "CTO at Dataflows"
+    filip:
+        name: 'Filip Stachura'
+        author: 'Filip Stachura'
+        image: ""
+    damian:
+        name: 'Damian Rodziewicz'
+        author: 'Damian Rodziewicz'
+        image: '/assets/images/damian.jpg'
+    pawel:
+        name: 'Paweł Przytuła'
+        author: 'Paweł Przytuła'
+        image: ""
+    krolek:
+        name: 'Piotr Kroll'
+        author: 'Piotr Kroll'
+        image: ""
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://blog.dataflows.io" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
+    url:	https://twitter.com/DataflowsIO
+    desc: Follow us on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
@@ -41,8 +65,8 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+    url:	https://github.com/dataflows
+    desc:	Check out our github
     share_url:
     share_title:
     share_link:
