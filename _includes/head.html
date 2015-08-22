@@ -12,6 +12,17 @@
   <meta name="MobileOptimized" content="320" />
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  {% if site.twitter_handle %}
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="{{ site.twitter_handle }}" />
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta name="twitter:image" content="{{ site.logo | prepend: site.url }}" />
+    {% if page.excerpt %}
+    <meta name="twitter:description"  content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}" />
+    {% elsif site.description %}
+    <meta name="twitter:description" content="{{ site.description | strip_html | strip_newlines | truncate: 200 }}" />
+    {% endif %}
+  {% endif %}
   
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
