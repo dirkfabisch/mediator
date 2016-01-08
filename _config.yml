@@ -1,9 +1,8 @@
 # Build settings
-markdown: redcarpet
-highlighter: pygments
 gems:
   - jemoji
-  
+  - jekyll-paginate
+
 # Site settings
 title: "Mediator"
 description: > # this means to ignore newlines until "email:"
