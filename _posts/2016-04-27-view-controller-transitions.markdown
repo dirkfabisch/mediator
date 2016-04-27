@@ -19,7 +19,9 @@ Now we have a nice API for controlling the animation between view controllers. T
 * If that delegate is not empty, UIKit retrieves the animation controller, which is responsible for the transition between view controllers. [transitioningDelegate][id_td] methods look like this:
 
 ``` objective_c
+
 -(id<UIViewControllerAnimatedTransitioning>)animationControllerForPresentedController:(UIViewController *)presented presentingController:(UIViewController *)presenting sourceController:(UIViewController *)source
+
 ```
 
 ```objective_c
@@ -29,17 +31,17 @@ Now we have a nice API for controlling the animation between view controllers. T
 
 * Those animation controllers which conform `<UIViewControllerAnimatedTransitioning>` protocol are the ones we will use for the custom transitions. To conform `<UIViewControllerAnimatedTransitioning>` protocol, animation controllers should implement the following methods:
 
-```
+```objective_c
 -(NSTimeInterval)transitionDuration:(id<UIViewControllerContextTransitioning>)transitionContext
 ```
 
-```
+```objective_c
 -(void)animateTransition:(id<UIViewControllerContextTransitioning>)transitionContext
 ```
 
 * The key point here; UIKit sends to our animation controller a `transitionContext` object, in which we can find any information about the transition to happen. We are going to use `transitionContext` object to fetch views of both presenting and presented view controllers, calculating final frames, managing lifecycle of transtiion etc. For more details see [transitionContext][id_tc].
 
---
+
 ### Working Example
 
 We will implement this complicated and protocol oriented API, by creating a simple fadein-fadeout transition between 2 view controllers.
@@ -47,7 +49,7 @@ Let's assume we have 2 view controllers, **HomeViewController** and **FadeViewCo
 
 For simplicity, **HomeViewController** would present a **FadeViewController** instance. Nothing new here except the [transitioningDelegate][id_td]:
 
-```objc
+```objective_c
 UIViewController *fade = [[UIStoryboard storyboardWithName:@"Main" bundle:nil] instantiateViewControllerWithIdentifier:@"fade"];
 fade.transitioningDelegate = fade;
 [self presentViewController:fade animated:YES completion:nil];
@@ -56,7 +58,7 @@ fade.transitioningDelegate = fade;
 
 After this step we will implement this delegate in **FadeViewController** :
 
-```
+```objective_c
 @interface FadeViewController : UIViewController <UIViewControllerTransitioningDelegate>
 
 @property (nonatomic,strong) IBOutlet id <UIViewControllerAnimatedTransitioning> presentAnimationController;
@@ -177,7 +179,9 @@ Here is how i specify the **FadeTransition** object in **Storyboard**:
 
 
 ![FadeTransition]({{ site.url }}/assets/article_images/view-controller-transition/storyboard_1.png)
+
 --
+
 This is how it looks for presenting with **FadeTransition**:
 
 ![FadeTransition]({{ site.url }}/assets/article_images/view-controller-transition/fade_3.gif)
@@ -186,7 +190,7 @@ Here comes the interesting part. We will use the same transition to dismiss the 
 
 First we create another animation controller for dismiss transition:
 
-``` objectivec 
+``` objective_c 
 
 @interface FadeViewController : UIViewController <UIViewControllerTransitioningDelegate>
 .
