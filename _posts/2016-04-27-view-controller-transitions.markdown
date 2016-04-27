@@ -177,7 +177,7 @@ we tell UIKit that our transition ended. Within that call, UIKit calls the neces
 Here is how i specify the **FadeTransition** object in **Storyboard**:
 
 
-![FadeTransition](assets/artical_images/view-controller-transition/storyboard_1.png)
+![FadeTransition]({{ site.url }}/assets/artical_images/view-controller-transition/storyboard_1.png)
 --
 This is how it looks for presenting with **FadeTransition**:
 
