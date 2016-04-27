@@ -615,4 +615,4 @@ We have completed basics of **UIViewControllerTransioning** API. Transitions pos
 [schema_td]:http://image.slidesharecdn.com/mdevcamp2014-140602042211-phpapp02/95/custom-uiviewcontroller-transitions-19-638.jpg?cb=1401683058
 [id_td]:https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewControllerTransitioningDelegate_protocol/index.html#//apple_ref/occ/intf/UIViewControllerTransitioningDelegate
 [id_tc]:https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewControllerContextTransitioning_protocol/index.html#//apple_ref/occ/intf/UIViewControllerContextTransitioning
-[github_project]:https://github.com/selim1377/ViewTransitions
+[github_project]:https://github.com/selim1377/blog_view_transition
