@@ -8,6 +8,14 @@ title: "Selim Bakdemir"
 description: > # this means to ignore newlines until "email:"
    iOS Developer - Peak Games
 
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
 email: selim.bakdemir@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
