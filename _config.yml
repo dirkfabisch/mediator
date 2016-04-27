@@ -20,8 +20,8 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://yourusername.github.io" # the base hostname & protocol for your site
-baseurl: "http://yourusername.github.io"
+url: "http://selim1377.github.io" # the base hostname & protocol for your site
+baseurl: "http://selim1377.github.io"
 #used to display twitter cards
 twitter_handle: '@sbakdemir'
 
