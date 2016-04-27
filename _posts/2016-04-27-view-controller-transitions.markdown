@@ -49,7 +49,9 @@ Now we have a nice API for controlling the animation between view controllers. T
 
 
 
-##Working Example
+
+### Working Example
+
 
 We will implement this complicated and protocol oriented API, by creating a simple fadein-fadeout transition between 2 view controllers.
 Let's assume we have 2 view controllers, **HomeViewController** and **FadeViewController** respectively.
@@ -186,7 +188,7 @@ Here is how i specify the **FadeTransition** object in **Storyboard**:
 
 ![FadeTransition]({{ site.url }}/assets/article_images/view-controller-transition/storyboard_1.png)
 --
-This is how it looks for presenting with **FadeTransition**:
+This is how it looks to present using **FadeTransition**:
 
 ![FadeTransition]({{ site.url }}/assets/article_images/view-controller-transition/fade_3.gif)
 
@@ -237,7 +239,6 @@ We can create different type of animation controllers and switch them in **Story
 
 
 # Interactive Transitions
---
 
 We created different type of transitions for both presenting and dismissing a view controller. What about we want to control the transition with user interaction ? Check the following transition:
 
@@ -571,8 +572,6 @@ We are all set to adjust the dismiss transition with out touch events. Lets mana
 
 * While moving the touch, `-pan:` method will be called continously, with state `UIGestureRecognizerStateChanged `. we calculated how  much we move our finger on the `x-axis`. While `delta` is guaranteed to be `[0,1]`, we are going to update our transition with the `delta` proportionally.
 
---
-
 
 ```objective_c
 -(void)pan:(UIPanGestureRecognizer *)gesture
@@ -606,8 +605,8 @@ We are all set to adjust the dismiss transition with out touch events. Lets mana
 
 ![Interactive Transition]({{ site.url }}/assets/article_images/view-controller-transition/sample_4.gif)
 
-
-## Summary
+Summary
+=======
 
 We have completed basics of **UIViewControllerTransioning** API. Transitions possibilities are endless with the new API and you can create and attach transitions to different view controllers with no change. Here is the complete source code for the [project][github_project]. Note that the project contains more than the transitions and implementations we discussed here.
 
