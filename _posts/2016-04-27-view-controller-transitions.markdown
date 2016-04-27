@@ -18,10 +18,16 @@ Now we have a nice API for controlling the animation between view controllers. T
 * When you present a view controller, UIKit looks for the [transitioningDelegate][id_td] for that View Controller.
 * If that delegate is not empty, UIKit retrieves the animation controller, which is responsible for the transition between view controllers. [transitioningDelegate][id_td] methods look like this:
 
-``` objective_c
+```objective_c
+-(id<UIViewControllerAnimatedTransitioning>)
+						animationControllerForPresentedController:(UIViewController *)presented 
+						presentingController:(UIViewController *)presenting 
+						sourceController:(UIViewController *)source
+```
 
--(id<UIViewControllerAnimatedTransitioning>)animationControllerForPresentedController:(UIViewController *)presented presentingController:(UIViewController *)presenting sourceController:(UIViewController *)source
-
+```objective_c
+-(id<UIViewControllerAnimatedTransitioning>)
+			animationControllerForDismissedController:(UIViewController *)dismissed
 ```
 
 ```objective_c
@@ -39,10 +45,11 @@ Now we have a nice API for controlling the animation between view controllers. T
 -(void)animateTransition:(id<UIViewControllerContextTransitioning>)transitionContext
 ```
 
-* The key point here; UIKit sends to our animation controller a `transitionContext` object, in which we can find any information about the transition to happen. We are going to use `transitionContext` object to fetch views of both presenting and presented view controllers, calculating final frames, managing lifecycle of transtiion etc. For more details see [transitionContext][id_tc].
+* The key point here; UIKit sends to our animation controller a `transitionContext` object, in which we can find any information about the transition to happen. We are going to use `transitionContext` object to fetch views of both presenting and presented view controllers, calculating final frames, managing lifecycle of transtiion etc. For more details see [transitionContext][id_tc].   
 
 
-### Working Example
+
+##Working Example
 
 We will implement this complicated and protocol oriented API, by creating a simple fadein-fadeout transition between 2 view controllers.
 Let's assume we have 2 view controllers, **HomeViewController** and **FadeViewController** respectively.
@@ -87,7 +94,6 @@ After this step we will implement this delegate in **FadeViewController** :
 }
 
 @end
-
 ```
 
 UIKit asks our transitionDelegate, which is **FadeViewController** in our case, whether there is an animationController for preseting this voew controller. We return `self.presentAnimationController` for presenting transition, and `nil` for dismissing transition. We do not want to have any custom transition while dismissing **FadeViewController**.
@@ -98,7 +104,7 @@ Actually the property `self.presentAnimationController` is marked as `IBOutlet`.
 
 First we create our animation controller. Here is the controller **FadeTransition.h**:
 
-```
+```objective_c
 @interface FadeTransition : NSObject  <UIViewControllerAnimatedTransitioning>
 
 @end
@@ -108,7 +114,7 @@ First we create our animation controller. Here is the controller **FadeTransitio
 Note that **FadeTransition** class conforms `<UIViewControllerAnimatedTransitioning>` which is a requirement to be an animation controller. Finally  **FadeTransition.m**:
 
 
-```
+```objective_c
 @implementation FadeTransition
 
 -(NSTimeInterval)transitionDuration:(id<UIViewControllerContextTransitioning>)transitionContext
@@ -145,21 +151,21 @@ Note that **FadeTransition** class conforms `<UIViewControllerAnimatedTransition
 
 As i told before, UIKit send `(id<UIViewControllerContextTransitioning>) transitionContext` object to our **FadeTransition** object, therefore we are able to fetch the necessary metadata for the transition. Lets cover it step by step. First we get the 2 views of view controllers:
 
-```
+```objective_c
 UIViewController *source = [transitionContext viewControllerForKey:UITransitionContextFromViewControllerKey];
 UIViewController *target = [transitionContext viewControllerForKey:UITransitionContextToViewControllerKey];
 ```
 
 Then we get the `containerView`, which was created by UIKit itself temporarily.
 
-```
+```objective_c
 UIView *containerView = [transitionContext containerView];
 
 ```
 
  `containerView` is active and being displayed during the transition. As soon as we **finish** or **cancel** the transition, `containerView` is destroyed by UIKit. We can think `containerView` as a scene, in which we play any animation we want, and close the scene when the transition ends.
  
-```
+```objective_c
 [UIView animateWithDuration:[self transitionDuration:transitionContext]
                      animations:^{
                          source.view.alpha = 1.0f;
@@ -179,9 +185,7 @@ Here is how i specify the **FadeTransition** object in **Storyboard**:
 
 
 ![FadeTransition]({{ site.url }}/assets/article_images/view-controller-transition/storyboard_1.png)
-
 --
-
 This is how it looks for presenting with **FadeTransition**:
 
 ![FadeTransition]({{ site.url }}/assets/article_images/view-controller-transition/fade_3.gif)
@@ -190,7 +194,7 @@ Here comes the interesting part. We will use the same transition to dismiss the 
 
 First we create another animation controller for dismiss transition:
 
-``` objective_c 
+```objective_c
 
 @interface FadeViewController : UIViewController <UIViewControllerTransitioningDelegate>
 .
@@ -204,7 +208,7 @@ First we create another animation controller for dismiss transition:
 
 And return this animationController for dismissal:
 
-``` 
+```objective_c
 @implementation FadeViewController
 
 .
@@ -244,7 +248,7 @@ The presenting animation controller is the one we used in the previous example, 
 
 For dismiss transition, we have complicated things a bit. Here is the target view controller called **PiecesViewController**:
 
-```
+```objective_c
 @interface PiecesViewController : UIViewController <UIViewControllerTransitioningDelegate, UINavigationControllerDelegate>
 
 @property (nonatomic,strong) IBOutlet id <UIViewControllerAnimatedTransitioning> presentingTransitionDelegate;
@@ -259,7 +263,7 @@ First, we have our ordinary presenting and dismissing animation controllers. Not
 
 The dismiss transition however, we choose to set it in code, in `-viewDidLoad` method:
 
-```
+```objective_c
 @implementation PiecesViewController
 
 -(void)viewDidLoad
@@ -288,7 +292,7 @@ The dismiss transition however, we choose to set it in code, in `-viewDidLoad` m
 
 Lets look at the `PiecesTransition` class. First the interface:
 
-```
+```objective_c
 @interface PiecesTransition : NSObject <UIViewControllerAnimatedTransitioning>
 
 @end
@@ -297,7 +301,7 @@ Lets look at the `PiecesTransition` class. First the interface:
 
 and implementation:
 
-```
+```objective_c
 @implementation PiecesTransition
 
 
@@ -383,7 +387,7 @@ In our example we will try to manage the transition with **Pan** gesture.
 
 First we should tell UIKit that this view controller has an interactionController. This is done by overriding the transitionDelegate method in **PiecesViewController**:
 
-```
+```objective_c
 -(id<UIViewControllerInteractiveTransitioning>)interactionControllerForDismissal:
 												(id<UIViewControllerAnimatedTransitioning>)animator
 ```
@@ -391,7 +395,7 @@ First we should tell UIKit that this view controller has an interactionControlle
 
 Here is the view controller implementation:
 
-```
+```objective_c
 @interface PiecesViewController : UIViewController <UIViewControllerTransitioningDelegate, UINavigationControllerDelegate>
 
 @property (nonatomic,strong) IBOutlet id <UIViewControllerAnimatedTransitioning> presentingAnimationController;
@@ -423,7 +427,8 @@ Here is the view controller implementation:
  
  Now we need to create that interactionController, here is **PiecesInteraction**:
  
- ```
+```objective_c
+ 
 @interface PiecesInteraction : UIPercentDrivenInteractiveTransition
 
 @property (nonatomic,weak) UIViewController *viewController;
@@ -439,7 +444,7 @@ Here is the view controller implementation:
 
 The interaction controllers will manage the transition with the **Pan** gesture. We might first catch those gestures:
 
-```
+```objective_c
 @implementation PiecesInteraction
 
 -(void)setupViewController:(UIViewController *)viewController
@@ -477,7 +482,7 @@ The interaction controllers will manage the transition with the **Pan** gesture.
 
 We are listening for pan gestures of the view controller. We need to call `-(void)setupViewController:` :
 
-```
+```objective_c
 @implementation PiecesViewController
 
 -(void)viewDidLoad
@@ -508,7 +513,7 @@ In the code above, we initialised an instance of `PiecesInteraction`, set the pa
 
 We are all set to adjust the dismiss transition with out touch events. Lets manage the animation with the gesture event results:
 
-```
+```objective_c
 -(void)pan:(UIPanGestureRecognizer *)gesture
 {
     CGPoint location = [gesture locationInView:self.viewController.view];
@@ -538,7 +543,7 @@ We are all set to adjust the dismiss transition with out touch events. Lets mana
 --
 
 
-```
+```objective_c
 -(void)pan:(UIPanGestureRecognizer *)gesture
 {
     .
@@ -569,7 +574,7 @@ We are all set to adjust the dismiss transition with out touch events. Lets mana
 --
 
 
-```
+```objective_c
 -(void)pan:(UIPanGestureRecognizer *)gesture
 {
     switch (gesture.state) {
