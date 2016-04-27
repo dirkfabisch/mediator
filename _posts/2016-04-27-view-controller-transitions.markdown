@@ -39,7 +39,7 @@ Now we have a nice API for controlling the animation between view controllers. T
 
 * The key point here; UIKit sends to our animation controller a `transitionContext` object, in which we can find any information about the transition to happen. We are going to use `transitionContext` object to fetch views of both presenting and presented view controllers, calculating final frames, managing lifecycle of transtiion etc. For more details see [transitionContext][id_tc].
 
-
+--
 ### Working Example
 
 We will implement this complicated and protocol oriented API, by creating a simple fadein-fadeout transition between 2 view controllers.
@@ -176,11 +176,11 @@ we tell UIKit that our transition ended. Within that call, UIKit calls the neces
 Here is how i specify the **FadeTransition** object in **Storyboard**:
 
 
-![FadeTransition]({{ site.url }}/assets/artical_images/view-controller-transition/storyboard_1.png)
+![FadeTransition]({{ site.url }}/assets/article_images/view-controller-transition/storyboard_1.png)
 --
 This is how it looks for presenting with **FadeTransition**:
 
-![FadeTransition](fade_3.gif)
+![FadeTransition]({{ site.url }}/assets/article_images/view-controller-transition/fade_3.gif)
 
 Here comes the interesting part. We will use the same transition to dismiss the **FadeViewController**. 
 
@@ -219,13 +219,13 @@ And return this animationController for dismissal:
 
 Finally, we attach the new `self.dismissAnimationController ` in **Storyboard**.
 
-![Dismiss Controller](storyboard_2.png)
+![Dismiss Controller]({{ site.url }}/assets/article_images/view-controller-transition/storyboard_2.png)
 
 
 We can create different type of animation controllers and switch them in **Storyboard**, to see the transition immediately. Here is a couple of transition effects used in the [sample project][github_project].
 
 
-![Dismiss Controller](sample_1.gif)
+![Dismiss Controller]({{ site.url }}/assets/article_images/view-controller-transition/sample_1.gif)
 
 
 # Interactive Transitions
@@ -233,7 +233,7 @@ We can create different type of animation controllers and switch them in **Story
 
 We created different type of transitions for both presenting and dismissing a view controller. What about we want to control the transition with user interaction ? Check the following transition:
 
-![Interactive Transition](sample_4.gif)
+![Interactive Transition]({{ site.url }}/assets/article_images/view-controller-transition/sample_4.gif)
 
 
 The presenting animation controller is the one we used in the previous example, **FadeTransition**. Therefore we can skip the presenting part.
@@ -369,7 +369,7 @@ Let's discuss the code above in parts.
 
 When we build and run the project, we will see the new **PieceTransition**, but we immediately aware of that the transition is not interactive. We can only dismiss the view controller by clicking **<< Dismiss** button down.
 
-![Interactive Transition](sample_5.gif)
+![Interactive Transition]({{ site.url }}/assets/article_images/view-controller-transition/sample_5.gif)
 --
 
 ### Making the transition interactive
@@ -595,7 +595,7 @@ We are all set to adjust the dismiss transition with out touch events. Lets mana
 
 ### Here is the result with interaction:
 
-![Interactive Transition](sample_4.gif)
+![Interactive Transition]({{ site.url }}/assets/article_images/view-controller-transition/sample_4.gif)
 
 
 ## Summary
