@@ -2,7 +2,6 @@
 layout: post
 title:  "View Controller Transitions"
 date:   2016-04-26 12:34:25
-tags: featured
 image: /assets/article_images/view-controller-transition/transition.jpg
 image2: /assets/images/homepage.jpg
 ---
