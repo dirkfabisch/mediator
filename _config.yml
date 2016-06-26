@@ -4,23 +4,23 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Matthew La Rue"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   About things interesting to me
 
 email: a-mail@mail.mail
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/bg-image.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Matthew La Rue'
+author: 'Matthew La Rue'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "blog.matthewlarue.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
@@ -45,7 +45,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/mattlarue
     desc:	Fork me on github
     share_url:
     share_title:
