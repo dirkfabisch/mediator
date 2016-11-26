@@ -4,26 +4,34 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Selim Bakdemir"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   iOS Developer - Peak Games
 
-email: a-mail@mail.mail
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+email: selim.bakdemir@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/homepage.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Selim Bakdemir'
+author: 'Selim Bakdemir'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
+url: "http://selim1377.github.io" # the base hostname & protocol for your site
+baseurl: "http://selim1377.github.io"
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@sbakdemir'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -31,7 +39,7 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/sbakdemir
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -45,7 +53,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/selim1377
     desc:	Fork me on github
     share_url:
     share_title:
