@@ -16,7 +16,7 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="{{ site.twitter_handle }}" />
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-    <meta name="twitter:image" content="{{ site.logo | prepend: site.url }}" />
+    <meta name="twitter:image" content="{{ site.logo | prepend: site.baseurl | prepend: site.url }}" />
     {% if page.excerpt %}
     <meta name="twitter:description"  content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}" />
     {% elsif site.description %}
@@ -31,7 +31,7 @@
   {% elsif site.description %}
   <meta property="og:description" content="{{ site.description | strip_html | strip_newlines | truncate: 200 }}" />
   {% endif %}
-  <meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.url }}{% else %}{{ site.logo | prepend: site.url }}{% endif %}" />
+  <meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" >
   <meta property="og:type" content="blog" />
   {% if page.date %}<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">{% endif %}
