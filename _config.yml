@@ -11,6 +11,8 @@ description: > # this means to ignore newlines until "email:"
 email: a-mail@mail.mail
 #blog logo
 logo: "/assets/images/df_logo.jpg"
+float_logo: true # true, false (default)
+
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
