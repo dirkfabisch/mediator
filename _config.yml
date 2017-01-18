@@ -30,6 +30,8 @@ twitter_handle: '@dirkfabisch'
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
 
+#google_analytics: UA-XXXXX-X
+
 # social icons and sharing options
 social:
   - icon:	twitter
