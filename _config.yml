@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Zobject"
 description: > # this means to ignore newlines until "email:"
    A Jekyll theme - Medium inspired
 
