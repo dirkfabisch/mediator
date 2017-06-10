@@ -78,7 +78,9 @@ layout: default
       {% if paginator.next_page %}
         <a class="newer-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.next_page }}>&larr; Older posts</a>
       {% endif %}
-      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.total_pages > 1 %}
+        <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% endif %}
       {% if paginator.previous_page %}
         {% if paginator.page == 2 %}
           <a class="older-posts" href={{ "/" | prepend: site.baseurl }}>Newer posts &rarr;</a>
