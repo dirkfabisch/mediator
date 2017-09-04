@@ -91,7 +91,7 @@ GEM
       gemoji (~> 2.0)
       html-pipeline (~> 1.9)
       jekyll (>= 2.0)
-    json (1.8.3)
+    json (1.8.6)
     kramdown (1.5.0)
     liquid (2.6.2)
     listen (2.10.1)
@@ -107,7 +107,7 @@ GEM
       mini_portile (~> 0.6.0)
     parslet (1.5.0)
       blankslate (~> 2.0)
-    posix-spawn (0.3.11)
+    posix-spawn (0.3.13)
     public_suffix (1.5.1)
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
@@ -130,7 +130,7 @@ GEM
       ethon (>= 0.7.4)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    yajl-ruby (1.2.1)
+    yajl-ruby (1.2.2)
 
 PLATFORMS
   ruby
@@ -138,3 +138,7 @@ PLATFORMS
 DEPENDENCIES
   bourbon
   github-pages
+  jemoji
+
+BUNDLED WITH
+   1.14.6
