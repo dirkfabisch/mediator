@@ -22,7 +22,7 @@ author: 'Alex Paciorkowski'
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://www.alexpaciorkowski.com.***" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 #twitter_handle: '@dirkfabisch'
