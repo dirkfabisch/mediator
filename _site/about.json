@@ -1,0 +1,41 @@
+{
+  "name": "Audrey Watters",
+  "website": "http://audreywatters.com",
+  "about": "Audrey Watters is a journalist specializing in education technology news and analysis.  Although she was two chapters into her PhD dissertation, she decided to abandon academia, and she now happily fulfills the one job recommended to her by a junior high aptitude test: freelance writer.",
+  "photo": "http://www.flickr.com/photos/cogdog/10295189744/",
+  "address": {
+    "street": "2753 Broadway, No. 210",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10025",
+    "country": "United States"
+  },
+  "contact": {
+    "phone": "1-424-398-6777",
+    "email": "mail@audreywatters.com"
+  },
+  "sites": [
+    {
+      "name": "Hack Education",
+      "url": "http://hackeducation.com"
+    },
+    {
+      "name": "Teaching Machines",
+      "url": "http://teachingmachin.es"
+    }
+    {
+      "name": "Contrafabulists",
+      "url": "http://contrafabulists.com"
+    }
+  ],
+  "social": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/audreywatters"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/audreywatters"
+    }
+  ]
+}
