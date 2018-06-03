@@ -1,63 +1,78 @@
 # Build settings
-gems:
-  - jemoji
-  - jekyll-paginate
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 # Site settings
-title: "Mediator"
+title: "Ben Brown"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   PhD Student in Mathematics at The University of Edinburgh
 
-email: a-mail@mail.mail
+url: http://bencwbrown.co.uk
+
+email: b.c.w.brown@sms.ed.ac.uk
 #blog logo
-logo: "/assets/images/df_logo.jpg"
-float_logo: true # true, false (default)
-
+logo: "/assets/images/author.jpg"
+logo2: "/assets/images/caps2017.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/caps2017.jpg"
+covercredits: "Kyaw Shaw & Feiyu Fang"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Benjamin C. W. Brown'
+author: 'Ben Brown'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate:	10
+paginate_path: "/blog/page:num"
+permalink: /:categories/:year/:month/:day/:title
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://www.bencwbrown.co.uk" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
-
-#fill in disqus shortname to use disqus
-#disqus: disqus-shortname
-
-#google_analytics: UA-XXXXX-X
+twitter_handle: '@bencwbrown'
 
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/benjamincwbrown
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
-    share_link: "&amp;url="
+    share_link: "&url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  - icon:	facebook
+    url:	https://www.facebook.com/TheNotoriousBB
+    desc: Friend me on Facebook
+    share_url: http://www.facebook.com/sharer/sharer.php
+    share_title: ?title=
+    share_link: "?u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/bencwbrown
     desc:	Fork me on github
     share_url:
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
+#   - icon:	google-plus
+#     url:
+#     desc:
+#     share_url:
+#     share_title:
+#     share_link:
+
+#  - icon: rss
+#    url:  http://audreywatters.com/feed.xml
+#    desc: Subscribe
 #    share_url:
 #    share_title:
 #    share_link:
+
+  - icon: envelope
+    url:  mailto:b.c.w.brown@sms.ed.ac.uk
+    desc: Email
+    share_url:
+    share_title:
+    share_link:

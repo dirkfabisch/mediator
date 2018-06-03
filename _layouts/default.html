@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html>
 
@@ -11,7 +13,44 @@
 
     <div class="page-content">
       <div class="wrapper">
-        {{ content }}
+
+		<div class="teaserimage">
+		    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
+		        Teaser Image
+		    </div>
+		</div>
+
+		<header class="blog-header">
+		    {% if site.logo %}
+		      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
+		    {% endif %}
+		    <h1 class="blog-title">{{ site.title }}</h1>
+		    <h2 class="blog-description">{{ site.description }}</h2>
+		    <div class="custom-links">
+		      <!--edit your nav here-->
+		      	<a class="icon-twitter" href="https://twitter.com/benjamincwbrown"><i class="fab fa-twitter"></i></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+		    	<a class="icon-facebook" href="https://facebook.com/TheNotoriousBB"><i class="fab fa-facebook-square"></i></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+		    	<a class="icon-github" href="https://github.com/bencwbrown"><i class="fab fa-github"></i></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a class="icon-email" href="mailto:b.c.w.brown@sms.ed.ac.uk"><i class="far fa-envelope"></i></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+		      <a href="/">About</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+		      <a href="/research/">Research</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+		      <a href="/teaching/">Teaching</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+		      <a href="/cv/">CV</a>
+          <a href="/wiki/">Personal Wiki</a>
+		      <!--edit your nav here-->
+		    </div>
+		</header>
+
+		<main class="content" role="main">
+         	<article class="post">
+             	<section class="post-content">
+          		<a name="topofpage"></a>
+        	{{ content }}
+        		</section>
+        	</article>
+
+       </main>
+
       </div>
     </div>
 
