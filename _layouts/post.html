@@ -71,16 +71,6 @@
               <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
             </section>
           </div>
-          {{/post}}
-          <div class="isRight">
-            <h5 class="index-headline featured"><span>Credits</span></h5>
-            <footer class="site-footer">
-                <section class="copyright"><i class="far fa-copyright"></i> 2018&nbsp;&nbsp;·&nbsp;&nbsp; <a href="http://audreywatters.com">About the author</a></section>
-                <hr>
-                {% if page.imagecredits != null %}<a href="{{ page.imagecredits }}">Header image credits</a>{% else %}<a href="{{ site.covercredits }}">Image credits</a>{% endif %}
-              </div>
-            </footer>
-          </div>
         </div>
       </article>
     </main>
@@ -90,7 +80,6 @@
       <div class="inner">
         <h1 class="blog-title">{{ site.title }}</h1>
         <h2 class="blog-description">{{ site.description }}</h2>
-        <a href="/blog/" class="btn">Back to Archives</a>
       </div>
     </div>
     {% include javascripts.html %}
