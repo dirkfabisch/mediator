@@ -23,7 +23,7 @@ author_image: "/assets/images/fr-portrait.jpg"
 paginate:	5
 
 url: "https://fr4nkr.github.io/" # the base hostname & protocol for your site
-baseurl: "https://fr4nkr.github.io/"
+baseurl: ""
 #used to display twitter cards
 twitter_handle: 
 
