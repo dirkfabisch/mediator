@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "Mediator Features"
 date:   2014-11-30 14:34:25
@@ -37,4 +37,4 @@ This is an [example link](http://example.com/ "With a Title").
 >
 > - Apple
 > - Banana
-> - Plum
+> - Plum -->
