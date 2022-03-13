@@ -21,8 +21,8 @@ author: 'Francisco Rangel'
 author_image: "/assets/images/fr-portrait.jpg"
 
 paginate:	5
-
-url: "https://fr4nkr.github.io/" # the base hostname & protocol for your site
+host: "0.0.0.0"
+url: "" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: 
