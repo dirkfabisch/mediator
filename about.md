@@ -1,17 +1,13 @@
 ---
 layout: page
-title: About
+title: About J.
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+[![](/wp-content/uploads/2022/02/269352942_434954241619307_1315998629936579001_n-819x1024.jpeg)](/wp-content/uploads/2022/02/269352942_434954241619307_1315998629936579001_n.jpeg)
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+I’m a 16 year veteran of the Video Game Industry (and naturally a dedicated gamer), hobbyist photographer, 3D Printing enthusiast/maker, and devour-er of delicious food. Recently however, I made the leap *out* of the game industry for something else in technology… so we’ll see how that goes!
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I’m currently living in both Las Vegas and Los Angeles (Santa Monica, technically), but I consider San Francisco my adopted home. I actually grew up in Louisville, KY as well as the small town of Jasper, Indiana. My partner also lives full time in Yokohama Japan, so I spend a regular amount of time with her there as well (pandemic lockdowns not-withstanding) every other month or so. I kind of travel a lot I guess…
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This site is a random collection of links to other pieces of my life on the internet, as well as breadcrumbs to my other ventures such as my Photography work and 3D Printing creations. It’s probably not all that exciting, but it’s nice for me to collect it all somewhere that I can look back on over time and reminisce and keep it within my control rather than some other social media platform I have to be beholden to.

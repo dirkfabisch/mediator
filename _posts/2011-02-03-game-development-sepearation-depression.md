@@ -1,0 +1,17 @@
+---
+id: 95
+title: 'Game Development Sepearation Depression'
+date: '2011-02-03T06:29:50-08:00'
+author: Sargonas
+layout: post
+guid: 'http://sargonas.com/?p=95'
+permalink: /game-development-sepearation-depression/
+categories:
+    - Personal
+---
+
+I’ve encountered an unusual phenomenon. The last year and a half at EA I’ve been on a team that is considered a “shared resource”. We are basically utilized by just about every single development studio at EARS as well as a few remote ones. When you need our support, you get a project lead (myself) and a decent sized team of people under me. We tend to drop in around Alpha, and bounce just as soon as the title gets approved by First Party for release. Generally speaking, we jump into a project for the last 4-6 months of development, and then move on to the next. Also, us leads are generally on multiple projects at once, the bulk of our interaction with the team is email and weekly meetings as we do all of this from our own work space where we all sit together. This has led to a very “clinical” approach to the teams I have worked with on my part.
+
+With Dead Space 2 though it has been an entirely different situation. Due to the scope and focus of this title no expense was spared, that meant that the team put forward by my group was dedicated to DS2 and nothing else. This also meant we tried a new experimental plan where I packed up everything in the building I was in and moved into the Visceral studio for 9 months. I sat with, crunched, ate lunch, stayed late, and partied with the Dead Space 2 team. My entire focus was this game and little else. I was treated like part of the group and given a lot of the perks of it as well. It was an incredibly rewarding experience, but more importantly it allowed me to really get involved with the project more than usual and help make it the rock star success that it is. I went from an abstract paper pusher and project manager to an involved and valued member of the Dev Team.
+
+Now I find myself with a conundrum however. The title has shipped, the team is moving on to their next project, and they are without need of my services for quite a long time. Today I pack up my things from my cube in their studio and move back over the building where my primary team is. I need to reintegrate myself to the style of working on a project where I’m not embedded with the team, and back to a life where I am just some guy who makes the dev team’s life harder than usual with most of my emails and no one really knows or cares to know me since I’m not “one of them”. I’ve come to realize it’s possible I was a bit spoiled, but at the same time thats how my job SHOULD be in a way. Now, I’m not so sure how much I like my job anymore if I have to go back to the way things were on future projects. The Visceral guys were really great to work with, they gave every single member of their team equal respect in ways most other groups apparently don’t. Above all though, they were simply awesome guys who were so much fun to be around. No matter how rough things got, or how crazy a day was, I went home happy and came in to work excited. It’s amazing what you will gladly put up with if the environment is right. The future now is not nearly as exciting it seems….

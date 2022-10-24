@@ -1,0 +1,52 @@
+---
+id: 71
+title: 'Adventures In Number Porting, or how Verizon’s customer service out-crapped AT&#038;Ts'
+date: '2012-09-26T06:06:59-07:00'
+author: Sargonas
+layout: post
+guid: 'http://sargonas.com/?p=71'
+permalink: /adventures-in-number-porting-or-how-verizons-customer-service-out-crapped-atts/
+categories:
+    - Personal
+tags:
+    - Apple
+    - 'at&amp;t'
+    - 'cell phone'
+    - 'customer support'
+    - iPad
+    - iPhone
+    - 'iphone 5'
+    - verizon
+    - vzw
+---
+
+<div class="entry">Let me share the absolute customer service NIGHTMARE I have experience trying to buy an iPhone 5 and switch from AT&amp;T to Verizon.
+
+So I started off with buying an iPhone 5 on apple.com on tuesday night. Their new system allows you to try to buy a phone between 10pm and 3am, and set it for in-store pickup the very next day IF the store you pick has any allotted that have not yet been claimed. I do so, and set my pickup for the only store in the bay that showed available, the Palo Alto one.
+
+I drive down and pickup my phone. The Apple guru had me click a few things on his gizmo to accept the transaction, and tells me the number should be ported over and activated on my new phone within the next hour, or up to 4 hours in an extreme case.
+
+4 hours later it’s still not activated, so I decide screw it, and walk a block to the nearby VZW store. I ask for help, explain it’s not yet activated, and tell my story. They poke around in their computer and finally tell me that there is nothing on file with them for my number, and that all of my support needs to be done with Apple because apple has not passed it on to them yet and they seem far to eager to usher me out the store. I head to the nearby S.F. Apple store, where they tell me that once they push the big green button on their tablets, everything is turned over to Verizon and only they can help me…and usher me out of their store.
+
+At this point I rant on twitter, and VZW’s twitter account jumps in and gives me the number to their Number Porting call center for help saying this has nothing to do with Apple and is all on them, so I go home and call. After finally getting through to someone and explaining my situation, I get multiple excuses before they finally suddenly know whats wrong, and pass me on to a supervisor to fix things for me. The supervisor pokes around and finally tells me it’s not activated because I “got the phone much sooner than they expected, they were planning for me to have it on 10/18 and so were not going to activate my number port until that time”. WTF?! She finally sorts things out and tells me they need to hand me off to someone who can manually kick through the account setup, and so I am asked to wait on hold while she calls another department to work with the two of us on this. After 20 minutes on hold, a checkin from her, and then 5 more minutes on hold, she tells me she can’t wait with me any further and tells me what to tell the next person, and dumps me alone in the queue. 10 minutes later when someone answers and I start to fill him in, I can sense he’s trying to do everything he can to dodge helping me because I should not be talking to him, another agent should and he’s not happy with the breach of protocol. Perseverance prevails and eventually he pokes around in the system and after 20 minutes finds my account request. He proceeds to read back to me all the information, and make a SECOND account request for me, and takes down all of my info. He runs it through and it fails, so he deletes my pending request from before that was “completed but tied to a blank account for some unknown reason” and does a lot of other stuff I won’t go into detail on, and eventually takes all of my info AGAIN, making a 3rd account request and says it should work in the next 5-10 minutes. I thank him, get off the phone, and make a test call with the new phone which goes through just fine for me. Satisfied I then have someone call me as a test and the old AT&amp;T phone rings. I’m told sometimes you get dual service during the cross over of the port so think “ok fine, so what.”
+
+2 hours later I am still getting calls on the AT&amp;T phone so I make another call, and come to find out my caller ID is showing up with an area code of 505 and not 502… that’s right, they assigned me the wrong number… they ported a New Mexico number from someone else to my phone.. not my own Kentucky one.
+
+I call back, and after 20 minutes of hold time I get through to someone, get about 20 seconds into explaining my situation to a “Brice” and suddenly the call is ended. Not dropped, ended. (The phones react different to the two scenarios so I can tell)
+
+So I call back AGAIN, re-explain my situation to a “Jeremy”. Now I’m told a NEW port has been requested which will take 24-48 hours, at that point they will call me when it’s done and we can try to activate the new phone. I had to take the initiative to bring up the fact this phone’s SIM had already been used for the “bad” number before he said anything however, and replies “oh yeah, you are right you will need a new SIM”. The problem is I learned from my local VZW store today however that NO Verizon stores in the city have spare micro sims at this time…. I ask what we will do about it, and after a long time on hold he comes back to tell me that he can’t help with that and I will have to just keep in touch with the local store and wait for SIMS to come in for someone to activate my phone as they do not have any cards readily available to ship to me either.
+
+After more grumbling he finally put me on hold again and transferred to a “reggie” who told me we COULD reuse the SIM, and proceeded to call me on another phone while he reprogrammed my iPhone, but then part way through put me on hold to talk to his own internal support team for an unknown reason. He comes back and has me power cycle the phone, but it still has the old number. He then asks me to power it off, remove the SIM, replace it, then turn it on…still no dice. At this point he admits we’ve reached the end of his scripted notes and puts me back on hold to once again try to get ahold of his internal support team. He comes back, STILL on hold with them, and says some things updated on his side and would I please check my phone again. Sure enough NOW it has the right number in the “my number” but still no ability to make/receive calls. One more power cycle with a sim remove/insert and BAM it works.
+
+Jesus… this took WAY too much work…  
+Seriously Verizon? Seriously? Right now you are worse than AT&amp;T, Bank of America, and Comcast combined with the CS experience I have had today over the last 8 hours.
+
+*UPDATE 10/09/12 –*
+
+Today I decided to convert my iPad 3 (which was already a Verizon model) off of the 30$ a month pre-paid plan and add it to my Verizon account, which would allow me to share the phone’s data pool for $10 a month more. I called Verizon and was told I needed to get a new sim from the store to do this, so I walked around the corner to the nearby store. The were happy to help, and started to swap out my SIM card. I had to watch though as they scratched up the iPad a bit though, as they tried to use a bent paperclip to open the SIM. I asked why they didn’t just use a SIM removal tool like the ones that come with every iPad, but I was told they aren’t given those and they just have to order special paperclips that are of just the right size to fit. After digging around with a few wrong sizes (and scratching my iPad) they finally found one the right size and popped it out. They put in a new one and sent me on my way… after charging me a 35$ setup fee. That’s right, taking my iPad that was already setup with them, and adding it to an existing account cost me an extra $35. \*sigh\*. As the iPad came back online however, it stuck in 3G mode and would not go into LTE. The nice girl helping me said she was not ok with me leaving the store till it was working in LTE mode, so we tried a few trouble shooting options to no avail. A manager came over, and tried to tell us that this was normal, and that rolling into LTE mode could take 2-6 hours because the system was slammed from all the iPhone activations going on. I knew better and called him on the BS, both on the fact that there is NOT an insurmountable level of iPhones being activated at that exact moment, but also on the fact their activation system is all or nothing. Either it would not activate at ALL, or it would activate entirely, no in betweens. He tried to talk down to me about how 3G and LTE are different things, and I responded that I knew all too well how they work and referenced the spectrum frequencies and details on how Verizon’s radios worked, as well as how their activation systems work, having intimate knowledge of it from my phone calls 2 weeks prior regarding the iPhone. I more or less politely but stubbornly called him on his BS and made it clear I was not satisfied with his “get me out of the store quickly” brush off answer, to which he responded “Well, since you know so much about how it works then you should know how to fix it yourself, so there you go.” He then shoved my iPad in my hands and walked into the back room slamming the door. The agent helping me looked at me shocked and just offered me her card, saying come back in 2 hours if it wasn’t working and that she was terribly sorry for the problem.
+
+3 hours later it was still in 3G mode, so I called Verizon support and they told me what I already knew, it should have worked in LTE mode within minutes and the fact it was not was a clear sign the SIM card was provisioned incorrectly and they needed to fix it in the store. I returned, explained my ordeal, and the new agent spent about 10 minutes poking and prodding in the computer before saying she gives up on that sim, opened a new one, ran it through the computer, put it into my iPad, and it worked like a charm on the first try.
+
+I’m seriously beginning to regret switching to Verizon. I’ve already sent a complaint via email requesting my $70 setup fee (35$ for each device) be removed from my bill, but I won’t hold my breath. At this point I feel like I have done more work than they have to get things up and running and they should, if anything, owe ME money!
+
+</div>

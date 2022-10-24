@@ -4,28 +4,28 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Sargonas ://: J. Eckert"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Completely making it up as I go along
 
-email: a-mail@mail.mail
+#email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/logo.png"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/cover.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'J. "Sargonas" Eckert'
+author: 'J. "Sargonas" Eckert'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://sargonas.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@sargonas'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -35,11 +35,11 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/sargonas
     desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+    #share_url: http://twitter.com/share
+    #share_title: ?text=
+    #share_link: "&amp;url="
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
@@ -49,15 +49,15 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/sargonas
     desc:	Fork me on github
     share_url:
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
+  - icon:	instagram
+    url:	https://instagram.com/sargonas
+    desc:	I sometimes take pretty pictures
 #    share_url:
 #    share_title:
 #    share_link:
