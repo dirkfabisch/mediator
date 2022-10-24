@@ -1,6 +1,6 @@
 ---
-id: 643
-title: '2018 Holiday Trip Photos'
+title:
+ '2018 Holiday Trip Photos'
 date: '2019-01-07T20:18:37-08:00'
 author: Sargonas
 layout: post

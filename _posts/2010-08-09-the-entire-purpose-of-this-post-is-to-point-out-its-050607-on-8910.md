@@ -1,6 +1,6 @@
 ---
-id: 97
-title: 'The entire purpose of this post is to point out its 05:06:07 on 8/9/10'
+title:
+ 'The entire purpose of this post is to point out its 05:06:07 on 8/9/10'
 date: '2010-08-09T05:06:55-07:00'
 author: Sargonas
 layout: post

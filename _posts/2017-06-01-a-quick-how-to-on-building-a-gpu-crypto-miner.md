@@ -1,6 +1,6 @@
 ---
-id: 528
-title: 'A quick how-to on building a GPU crypto-miner'
+title:
+ 'A quick how-to on building a GPU crypto-miner'
 date: '2017-06-01T11:39:18-07:00'
 author: Sargonas
 layout: post

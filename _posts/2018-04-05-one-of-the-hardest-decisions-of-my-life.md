@@ -1,6 +1,6 @@
 ---
-id: 678
-title: 'One of the hardest decisions of my life&#8230;'
+title:
+ 'One of the hardest decisions of my life&#8230;'
 date: '2018-04-05T11:15:20-07:00'
 author: Sargonas
 layout: post

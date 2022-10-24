@@ -1,6 +1,6 @@
 ---
-id: 694
-title: 'Elite: Dangerous custom controls'
+title:
+ 'Elite: Dangerous custom controls'
 date: '2019-07-21T12:59:36-07:00'
 author: Sargonas
 layout: post

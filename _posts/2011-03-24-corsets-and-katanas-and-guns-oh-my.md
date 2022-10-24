@@ -1,6 +1,6 @@
 ---
-id: 93
-title: 'Corsets and Katanas and Guns, Oh My!'
+title:
+ 'Corsets and Katanas and Guns, Oh My!'
 date: '2011-03-24T06:28:11-07:00'
 author: Sargonas
 layout: post

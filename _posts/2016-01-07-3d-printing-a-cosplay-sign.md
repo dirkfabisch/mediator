@@ -1,6 +1,6 @@
 ---
-id: 308
-title: '3D Printing a Cosplay “Sign”'
+title:
+ '3D Printing a Cosplay “Sign”'
 date: '2016-01-07T11:19:28-08:00'
 author: Sargonas
 layout: post

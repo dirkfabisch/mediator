@@ -1,6 +1,6 @@
 ---
-id: 349
-title: 'MakerBox.me &#8211; Not for me.'
+title:
+ 'MakerBox.me &#8211; Not for me.'
 date: '2016-02-19T14:45:19-08:00'
 author: Sargonas
 layout: post

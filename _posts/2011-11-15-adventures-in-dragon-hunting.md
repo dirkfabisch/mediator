@@ -1,6 +1,6 @@
 ---
-id: 85
-title: 'Adventures in Dragon Hunting'
+title:
+ 'Adventures in Dragon Hunting'
 date: '2011-11-15T06:21:09-08:00'
 author: Sargonas
 layout: post

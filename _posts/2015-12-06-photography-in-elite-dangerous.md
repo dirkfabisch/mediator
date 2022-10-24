@@ -1,6 +1,6 @@
 ---
-id: 207
-title: 'Photography within Elite: Dangerous'
+title:
+ 'Photography within Elite: Dangerous'
 date: '2015-12-06T23:45:15-08:00'
 author: Sargonas
 layout: post

@@ -1,6 +1,6 @@
 ---
-id: 501
-title: 'Accepting Trump is President does not mean you have to ignore that he is a terrible person.'
+title:
+ 'Accepting Trump is President does not mean you have to ignore that he is a terrible person.'
 date: '2017-01-22T10:44:21-08:00'
 author: Sargonas
 layout: post

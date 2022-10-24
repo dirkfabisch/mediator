@@ -1,6 +1,6 @@
 ---
-id: 412
-title: 'So I finally got around to The Witcher 3'
+title:
+ 'So I finally got around to The Witcher 3'
 date: '2016-08-25T19:09:02-07:00'
 author: Sargonas
 layout: post

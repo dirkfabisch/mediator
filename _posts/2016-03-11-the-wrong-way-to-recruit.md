@@ -1,6 +1,6 @@
 ---
-id: 374
-title: 'The wrong way to recruit'
+title:
+ 'The wrong way to recruit'
 date: '2016-03-11T16:10:40-08:00'
 author: Sargonas
 layout: post

@@ -1,6 +1,6 @@
 ---
-id: 176799
-title: 'Getting back into 3D Printing&#8230; my first &#8220;big&#8221; print since!'
+title:
+ 'Getting back into 3D Printing&#8230; my first &#8220;big&#8221; print since!'
 date: '2022-03-26T11:04:53-07:00'
 author: Sargonas
 excerpt: "After 2 weeks of getting back on the horse, tried my first 30-hour, overnight print in years.\n\nIt did not go as planned... but not for the reasons you might expect!\n\n"

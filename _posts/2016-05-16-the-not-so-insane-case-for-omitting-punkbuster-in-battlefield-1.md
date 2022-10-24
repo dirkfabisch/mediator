@@ -1,6 +1,6 @@
 ---
-id: 379
-title: 'The (not so insane) case for omitting Punkbuster in Battlefield 1'
+title:
+ 'The (not so insane) case for omitting Punkbuster in Battlefield 1'
 date: '2016-05-16T11:43:18-07:00'
 author: Sargonas
 layout: post

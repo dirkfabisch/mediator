@@ -1,6 +1,6 @@
 ---
-id: 484
-title: 'Razer Blade woes round 2, the Amazoning'
+title:
+ 'Razer Blade woes round 2, the Amazoning'
 date: '2016-11-07T13:35:59-08:00'
 author: Sargonas
 layout: post

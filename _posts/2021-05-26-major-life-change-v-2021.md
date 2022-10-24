@@ -1,6 +1,6 @@
 ---
-id: 150596
-title: 'Major life change v.2021!'
+title:
+ 'Major life change v.2021!'
 date: '2021-05-26T18:14:00-07:00'
 author: Sargonas
 layout: post

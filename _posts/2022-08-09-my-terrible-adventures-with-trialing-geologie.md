@@ -1,6 +1,6 @@
 ---
-id: 267079
-title: 'My (terrible) adventures with trialing Geologie'
+title:
+ 'My (terrible) adventures with trialing Geologie'
 date: '2022-08-09T19:15:55-07:00'
 author: Sargonas
 layout: post

@@ -1,6 +1,6 @@
 ---
-id: 301
-title: 'Annual trip home to Louisville also requires a visit to watch A Christmas Carol. #sargonas_com'
+title:
+ 'Annual trip home to Louisville also requires a visit to watch A Christmas Carol. #sargonas_com'
 date: '2015-12-22T16:00:26-08:00'
 author: Sargonas
 layout: post

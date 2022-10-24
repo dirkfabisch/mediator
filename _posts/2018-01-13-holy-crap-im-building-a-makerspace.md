@@ -1,6 +1,6 @@
 ---
-id: 561
-title: 'Holy crap… I’m building a makerspace!'
+title:
+ 'Holy crap… I’m building a makerspace!'
 date: '2018-01-13T11:10:34-08:00'
 author: Sargonas
 layout: post

@@ -1,6 +1,6 @@
 ---
-id: 1
-title: 'Elite Dangerous'
+title:
+ 'Elite Dangerous'
 date: '2015-12-02T16:30:32-08:00'
 author: Sargonas
 layout: post

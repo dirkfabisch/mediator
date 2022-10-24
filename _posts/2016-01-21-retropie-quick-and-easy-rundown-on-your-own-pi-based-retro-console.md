@@ -1,6 +1,6 @@
 ---
-id: 322
-title: 'RetroPie &#8211; Quick and easy rundown on your own Pi based Retro console!'
+title:
+ 'RetroPie &#8211; Quick and easy rundown on your own Pi based Retro console!'
 date: '2016-01-21T15:39:38-08:00'
 author: Sargonas
 layout: post

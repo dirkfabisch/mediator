@@ -1,6 +1,6 @@
 ---
-id: 91
-title: 'My 3DS Streetpasses it&#8217;s first convention'
+title:
+ 'My 3DS Streetpasses it&#8217;s first convention'
 date: '2011-04-03T06:26:15-07:00'
 author: Sargonas
 layout: post

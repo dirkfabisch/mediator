@@ -1,6 +1,6 @@
 ---
-id: 402
-title: 'The DMV should not be this hard to deal with in 2016'
+title:
+ 'The DMV should not be this hard to deal with in 2016'
 date: '2016-06-09T15:09:14-07:00'
 author: Sargonas
 layout: post

@@ -1,6 +1,6 @@
 ---
-id: 418
-title: 'The 4 month saga to the perfect gift'
+title:
+ 'The 4 month saga to the perfect gift'
 date: '2016-10-10T14:20:19-07:00'
 author: Sargonas
 layout: post

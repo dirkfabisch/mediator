@@ -1,6 +1,6 @@
 ---
-id: 250
-title: 'Star Wars VII Theory'
+title:
+ 'Star Wars VII Theory'
 date: '2015-12-18T09:25:37-08:00'
 author: Sargonas
 layout: post

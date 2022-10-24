@@ -1,6 +1,6 @@
 ---
-id: 470
-title: 'The comedy of errors that is the Razer Store.'
+title:
+ 'The comedy of errors that is the Razer Store.'
 date: '2016-11-04T14:22:06-07:00'
 author: Sargonas
 layout: post

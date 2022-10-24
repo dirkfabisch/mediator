@@ -1,6 +1,6 @@
 ---
-id: 303
-title: 'My sister and her fiancé got me an AWESOME present! It&#8217;s a canvas wrapped copy of the #Lego patent application! #sargonas_com'
+title:
+ 'My sister and her fiancé got me an AWESOME present! It&#8217;s a canvas wrapped copy of the #Lego patent application! #sargonas_com'
 date: '2015-12-25T09:49:51-08:00'
 author: Sargonas
 layout: post

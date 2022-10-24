@@ -1,6 +1,6 @@
 ---
-id: 73
-title: 'Just Re-discovered iTunes-U'
+title:
+ 'Just Re-discovered iTunes-U'
 date: '2012-04-03T06:08:49-07:00'
 author: Sargonas
 layout: post

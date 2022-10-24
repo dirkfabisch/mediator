@@ -1,6 +1,6 @@
 ---
-id: 336
-title: 'Google&#8217;s Project Fi'
+title:
+ 'Google&#8217;s Project Fi'
 date: '2016-01-27T16:40:33-08:00'
 author: Sargonas
 layout: post

@@ -1,6 +1,6 @@
 ---
-id: 75
-title: 'My Shepard had a choice'
+title:
+ 'My Shepard had a choice'
 date: '2012-03-20T06:12:07-07:00'
 author: Sargonas
 layout: post

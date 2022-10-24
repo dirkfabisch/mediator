@@ -1,6 +1,6 @@
 ---
-id: 99
-title: 'Below here be dragons!'
+title:
+ 'Below here be dragons!'
 date: '2015-08-01T06:44:51-07:00'
 author: Sargonas
 layout: post

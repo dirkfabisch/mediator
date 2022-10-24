@@ -1,6 +1,6 @@
 ---
-id: 393
-title: 'My franken-code'
+title:
+ 'My franken-code'
 date: '2016-05-28T22:20:31-07:00'
 author: Sargonas
 layout: post

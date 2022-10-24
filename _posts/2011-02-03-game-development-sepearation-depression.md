@@ -1,6 +1,6 @@
 ---
-id: 95
-title: 'Game Development Sepearation Depression'
+title:
+ 'Game Development Sepearation Depression'
 date: '2011-02-03T06:29:50-08:00'
 author: Sargonas
 layout: post

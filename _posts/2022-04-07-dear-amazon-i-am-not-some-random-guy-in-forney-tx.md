@@ -1,6 +1,6 @@
 ---
-id: 185450
-title: 'Dear Amazon, I am not some random guy in Forney TX'
+title:
+ 'Dear Amazon, I am not some random guy in Forney TX'
 date: '2022-04-07T20:46:29-07:00'
 author: Sargonas
 layout: post

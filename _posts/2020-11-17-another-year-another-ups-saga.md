@@ -1,6 +1,6 @@
 ---
-id: 68466
-title: 'Another year, another UPS saga.'
+title:
+ 'Another year, another UPS saga.'
 date: '2020-11-17T11:16:40-08:00'
 author: Sargonas
 layout: post

@@ -1,6 +1,6 @@
 ---
-id: 195
-title: 'Thorn: Learning to process and paint a 3D print for maximum sexyness'
+title:
+ 'Thorn: Learning to process and paint a 3D print for maximum sexyness'
 date: '2015-08-24T12:55:48-07:00'
 author: Sargonas
 layout: post

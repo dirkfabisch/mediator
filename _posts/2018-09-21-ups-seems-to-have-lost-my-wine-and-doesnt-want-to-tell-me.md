@@ -1,6 +1,6 @@
 ---
-id: 587
-title: 'UPS seems to have lost my wine and doesn&#8217;t want to tell me'
+title:
+ 'UPS seems to have lost my wine and doesn&#8217;t want to tell me'
 date: '2018-09-21T19:56:26-07:00'
 author: Sargonas
 layout: post

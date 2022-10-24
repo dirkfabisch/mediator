@@ -1,6 +1,6 @@
 ---
-id: 511
-title: 'Rito Points, an Ethereum blockchain token!'
+title:
+ 'Rito Points, an Ethereum blockchain token!'
 date: '2017-05-16T01:49:26-07:00'
 author: Sargonas
 layout: post

@@ -1,6 +1,6 @@
 ---
-id: 71
-title: 'Adventures In Number Porting, or how Verizon’s customer service out-crapped AT&#038;Ts'
+title:
+ 'Adventures In Number Porting, or how Verizon’s customer service out-crapped AT&#038;Ts'
 date: '2012-09-26T06:06:59-07:00'
 author: Sargonas
 layout: post
