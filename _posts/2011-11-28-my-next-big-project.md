@@ -1,5 +1,4 @@
 ---
-id: 77
 title: 'My next big project?'
 date: '2011-11-28T06:13:49-08:00'
 author: Sargonas

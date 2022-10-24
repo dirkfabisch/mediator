@@ -22,7 +22,7 @@ tags:
 
 In preparation for PAX Prime 2015, I decided to create my own Thorn, an Exotic Hand Cannon from bungie’s “Destiny”. Now, 3D Printing is what I do best. I can crank things out for people all day long, tweaking, modifying, etc. However, painting and decorating? Not so much. Can I do it? Probably. Have I done it before? Nope… guess it’s time to learn on the job!
 
-This was an experiment in making a full on prop end to end, and I have to say, I’m happy with the results! Looking back there is a **lot** I think I did wrong, and while it might not be highly visible on the surface, I know it and at least now I’m better prepared for the next time. Practice makes perfect and all that…
+This was an experiment in making a full on prop end-to-end, and I have to say, I’m happy with the results! Looking back there is a **lot** I think I did wrong, and while it might not be highly visible on the surface, I know it and at least now I’m better prepared for the next time. Practice makes perfect and all that…
 
 [![2015-08-08 15.06.08](/assets/article_images/imported/2015/12/2015-08-08-15.06.08.jpg)](http://thevoxelforge.com/assets/article_images/imported/2015/08/2015-08-08-15.06.08.jpg) This was the Chamber and trigger assembly. It’s multi parted so that pulling the trigger will toggle the hammer. The chamber itself rests against a place on a pin that allows it to flip out as well, because let’s face it these are things you expect any revolver you hold in your hand to be able to do!
 

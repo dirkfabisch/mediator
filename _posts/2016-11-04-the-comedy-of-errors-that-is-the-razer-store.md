@@ -60,23 +60,23 @@ In August, my MacBook Pro’s video card started to give out. It’s 4 years old
 **Oct. 5th**<span style="font-weight: 400;"> – Support has replied to my first ticket. They explained that they are unable to apply the promotional credit, and that if I want to get the $100 off of my Core, I must cancel my order and start over by ordering the blade first, wait for the confirmation email with code, then use that code to order a core separately. </span>
 
 > *<span style="font-weight: 400;">“Hi, J.</span>*
-> 
+>
 > *<span style="font-weight: 400;">Thank you for contacting</span>*[*<span style="font-weight: 400;"> RazerStore.com</span>*](http://razerstore.com/)
-> 
+>
 > *<span style="font-weight: 400;">We are sorry that we are unable to add promotional code in any order that has already been placed.</span>*
-> 
+>
 > [*<span style="font-weight: 400;">https://store.razerzone.com/DRHM/store?Action=DisplayHelpPage&amp;SiteID=razerusa&amp;Locale=en\_US</span>*](https://store.razerzone.com/DRHM/store?Action=DisplayHelpPage&SiteID=razerusa&Locale=en_US)
-> 
+>
 > *<span style="font-weight: 400;">At this time, we can cancel your order and allow you to submit a new order. Please let us know if you want us to attempt a cancellation.</span>*
-> 
+>
 > *<span style="font-weight: 400;">If we attempt the cancellation, you will be notified by email that the cancellation was successful. If unsuccessful, your order will ship as originally placed.</span>*
-> 
+>
 > *<span style="font-weight: 400;">Hoping to hear from you for your decision.</span>*
-> 
+>
 > *<span style="font-weight: 400;">Thank you for your time and understanding.</span>*
-> 
+>
 > *<span style="font-weight: 400;">Sincerely,</span>*
-> 
+>
 > *<span style="font-weight: 400;">Team</span>*[*<span style="font-weight: 400;"> RazerStore.com</span>*](http://razerstore.com/)*<span style="font-weight: 400;">”</span>*
 
 Later that day, the other ticket is replied to saying that they cannot confirm for sure if the order status of the messenger bag would hold up the rest of the order or not. I’m told that it should not have actually been made available and is indefinitely out of stock and no longer officially offered as a promotion. Additionally, they are unable to make any changes or adjustments to my orders promotional codes and that if I wanted to cancel the order and start over they were happy to do so.
@@ -103,7 +103,7 @@ Later that day, the other ticket is replied to saying that they cannot confirm f
 
 **Oct. 20th**<span style="font-weight: 400;"> – The email confirmation that my Blade order was successfully canceled arrives. (but I failed to notice there was not one about my core).</span>
 
-**Oct. 24th**<span style="font-weight: 400;"> – 4 emails came in at the exact same time together (3:39AM) in one batch with identical time stamps.</span>
+**Oct. 24th**<span style="font-weight: 400;"> – 4 emails came in at the exact same time together (3:39AM) in one batch with identical timestamps.</span>
 
 1. <span style="font-weight: 400;">Shipping confirmation of Core stating it has just gone out.</span>
 2. <span style="font-weight: 400;">Email stating they were unable to successfully cancel my core order (duh?).</span>
@@ -129,35 +129,35 @@ Yeah. That happened.
 **Nov. 4th**<span style="font-weight: 400;"> – I woke up to the following email:</span>
 
 > *<span style="font-weight: 400;">Hi.</span>*
-> 
+>
 > *<span style="font-weight: 400;">Thank you for your order of </span>****Razer Blade with FHD – 1TB****<span style="font-weight: 400;">.</span>*
-> 
+>
 > *<span style="font-weight: 400;">Order number: </span>****\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\****
-> 
+>
 > *<span style="font-weight: 400;">We regret to inform you that due to unexpected shipment delays, we can ship the product only from </span>****November 28, 2016***
-> 
+>
 > *<span style="font-weight: 400;">Our bad. We are sorry.</span>*
-> 
+>
 > *<span style="font-weight: 400;">We do have ready stock of the upgraded </span>*[***Razer Blade QHD 512GB or Razer Blade QHD 1TB***](http://www.razerzone.com/store/razer-blade)***,*** *<span style="font-weight: 400;">and would like to give you priority to purchase it. In addition, we will offer you a </span>****Free Gift****<span style="font-weight: 400;"> of a </span>*[***Razer Blade Armor Case***](http://www.razerzone.com/store/razer-blade-armor-case)*<span style="font-weight: 400;">if you wish to take up the offer.</span>*
-> 
+>
 > *<span style="font-weight: 400;">To take up the offer to upgrade,</span>*
-> 
+>
 > 1. *<span style="font-weight: 400;"> </span><span style="font-weight: 400;">Please make the purchase within the next 5 business days</span>*
-> 
+>
 > [*<span style="font-weight: 400;">http://www.razerzone.com/store/razer-blade</span>*](http://www.razerzone.com/store/razer-blade)
-> 
+>
 > - *<span style="font-weight: 400;">Provide us the new order number so we may cancel the old order.</span>*
-> 
+>
 > - <span style="font-weight: 400;">Once your new </span>**Razer Blade QHD 512GB** <span style="font-weight: 400;">or</span> **Razer Blade QHD 1TB**<span style="font-weight: 400;">has shipped, you will receive an email with your tracking information.</span>
-> 
+>
 > 1. *<span style="font-weight: 400;"> </span><span style="font-weight: 400;">Instructions to redeem </span>****Free Gift****<span style="font-weight: 400;"> of a </span>*[***Razer Blade Armor Case***](http://www.razerzone.com/store/razer-blade-armor-case)*<span style="font-weight: 400;">will follow 7 days after your order ships.</span>*
-> 
+>
 > *<span style="font-weight: 400;">Should you choose to continue to wait for your </span>****Razer Blade with FHD – 1TB****<span style="font-weight: 400;">, we will go ahead to keep you in our waiting list.</span>*
-> 
+>
 > *<span style="font-weight: 400;">Once again, our sincere apologies. We value your business and appreciate your patience and understanding.</span>*
-> 
+>
 > *<span style="font-weight: 400;">Sincerely,</span>*
-> 
+>
 > *<span style="font-weight: 400;">Team RazerStore</span>*
 
 Well, at least you guys emailed me this time I guess… Though 2 days late. <span style="font-weight: 400;">I then went to the store to look up the listing for shits and giggles. The order page for the 1TB HD Blade no longer has a “preorder/shipping 28th” status. The purchase button has now been replaced with a “notify me” button, and the release date has been replaced with “Register your interest”.</span>

@@ -23,7 +23,7 @@ tags:
     - voxelforge
 ---
 
-For a bit of a “Throw Back Thursday”, (as all the cool kids are doing on the Internet these days), I thought I would share a little project I cooked up back in the summer.
+For a bit of a “Throw Back Thursday”, (as all the cool kids are doing on the internet these days), I thought I would share a little project I cooked up back in the summer.
 
 My girlfriend is an avid cosplayer (as well as costume designer) and as I was making some accessories for her for Anime Expo I came upon an idea: She often has her photo taken, as many cosplayers do, and then typically exchanges business cards with the photographer in question to make it easier for them to tag her in their photos later. What if I designed and printed her something to help smooth that process?
 

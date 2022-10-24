@@ -54,7 +54,7 @@ So first off, let’s talk parts. You’re going to need to get all this stuff g
 7. **Case**: Obviously you cant fit 6 GPUs in a tower. Additionally, air flow is hella key. That’s why you work with open framed cases for this, meant specifically for mining. [I use this one.](https://www.amazon.com/gp/product/B01EGREBKM/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
 8. **GPU Risers**: You are going to need what are called “GPU risers”. Most mining cases come with them, if not.. [this is what they look like.](https://www.amazon.com/6-Pack-PCI-E-Powered-Adapter-Extension/dp/B01N3UVJHM/ref=sr_1_1?s=electronics&ie=UTF8&qid=1496256821&sr=1-1&keywords=gpu+riser)
 9. **HDMI Emulator:** You are going to run a headless windows system, and when you remote in with something like Teamviewer, you will be stuck with a desktop resolution matching that of the monitor attached, or a tiny ass 400×600 pixel view otherwise. Plugging in a little 7$ HDMI emulator dongle will trick the system into thinking a full res display is attached instead!
-10. **USB WiFi adapter:** Pretty straightforward… your miner will need to phone home to it’s pool every 5-20 seconds, and I doubt you will want wires running to wherever it lives.
+10. **USB Wi-Fi adapter:** Pretty straightforward… your miner will need to phone home to it’s pool every 5-20 seconds, and I doubt you will want wires running to wherever it lives.
 
 **Here’s my own parts for reference:**
 
@@ -74,7 +74,7 @@ Once installed, we want to go ahead and do a test run before we start to screw w
 
 Next up you want to get the actual miner software installed. There are a ton of options but one of the best in class is Claymore’s Ethereum miner. [We’re gonna grab the latest one from here.](https://bitcointalk.org/index.php?topic=1433925.0) As of this writing,. 9.4 is the newest, but the main post is updated each time he changes it, this forum thread is the definitive resource for all things Claymore Eth Miner. Download it, and extract the folder to wherever makes sense for you.
 
-We’ll need to make some quick tweaks to the default start.bat file to make it’ll mine for you and not Claymore’s default wallet first though. By now I assume you have an Ethereum wallet address and have chosen a mining pool to be a part of. Getting one, setting up a wallet, choosing/joining a pool, etc, is beyond the scope of this, so I’m going to assume you have one. Open up the start.bat file and edit the existing command line to read like the following:
+We’ll need to make some quick tweaks to the default start.bat file to make it’ll mine for you and not Claymore’s default wallet first though. By now I assume you have an Ethereum wallet address and have chosen a mining pool to be a part of. Getting one, setting up a wallet, choosing/joining a pool, etc, is beyond the scope of this, so I’m going to assume you have one. Open up the start.bat file and edit the existing command-line to read like the following:
 
 `EthDcrMiner64.exe -epool pool.hostname.com:port -ewal YOURETHWALLETID `
 

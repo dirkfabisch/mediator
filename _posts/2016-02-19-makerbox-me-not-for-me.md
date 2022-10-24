@@ -32,7 +32,7 @@ This is what Maker Box touts:
 - Upcoming materials may include Glow In The Dark, Metal, Wood, Bronze, Carbon Fiber and Flexible Filaments.
 - <span class="il">Maker</span> tools one would need for tinkering such as screwdrivers, scrapers, pliers, wrenches, duct tape, etc.
 - Fun 3D downloads, reference sheets and guides.
-- Exclusive deals on free apps, printers, website coupons, courses and more.
+- Exclusive deals on free apps, printers, site coupons, courses and more.
 
 Unfortunately, there were quite a few delays leading up to the shipping, (though they were proactive in explaining the delays to weather, and promised a free gift to be sent out after delivery of the box.) It finally arrived however, and I have to say I’m pretty disappointed. Make no mistake, I’m not unrealistic… I expected like most monthly subscription crates for there to be a bit of wiggle room and certainly NOT to hit some kind of “wow this is worth way more than I paid” jackpot. That said, the results have been lackluster at best.
 

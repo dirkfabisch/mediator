@@ -23,7 +23,7 @@ tags:
 
 Where to begin…  
   
-So my friend had her own mens skincare company she set up, and it was *amazing.* The stuff she used was heavily researched and formulated, and was literally the only thing that kept my face from doing weird things when swapping back and fourth from the cool Santa Monica coastal air and the dry desert air of my Las Vegas home. It was a miracle for me. Sadly she sunset the brand. Right around the time I needed to find an alternative, some of my favorite youtube channels were being bombarded with ad-buys for [Geologie](https://geologie.com/), a new mens skincare line built into a quarterly subscription service.  
+So my friend had her own mens skincare company she set up, and it was *amazing.* The stuff she used was heavily researched and formulated, and was literally the only thing that kept my face from doing weird things when swapping back and fourth from the cool Santa Monica coastal air and the dry desert air of my Las Vegas home. It was a miracle for me. Sadly she sunset the brand. Right around the time I needed to find an alternative, some of my favorite YouTube channels were being bombarded with ad-buys for [Geologie](https://geologie.com/), a new mens skincare line built into a quarterly subscription service.  
   
 I said, what the heck, and filled out their basic form outlining what my needs were, and their tool built me a trial kit that they felt best suited my needs, and so I waited a week for it to arrive.
 
@@ -31,7 +31,7 @@ The trial they sent me came with a nicely laid out card explaining everything in
 
 They responded the next day, informing me the card included with mine was a mistake, and that my trial kit should have no eye cream and to disregard that component. Trying to verify this online was hard, because when you sign up for a trial, you do not get an account with them, you have to make your online account *separately* and then link your oder to it after the fact. As a result the only “history” I had was an order confirmation email with no details on what was sent to me other than a “Regimen #5” which I could find no reference to or details on their site for (everything was grouped by a collection name, not a number).
 
-I took them at face value however, (lol.. yay puns) and then as my trial 30 days wound down, was sufficiently *not* dissatisfied enough that I let it auto order for me my first full kit. (I will say however, it seems that my face is now TOO oily and I wanted to keep an eye on things and perhaps back off as the over-oiliness has exchanged dryness and occasional rosacea for breakouts). However I couldn’t, even from their back end view of my newly created account, TRULY understand what was in my formal kit that would be coming and if it included the mysterious eye cream or not, once more their descriptions and information was very… inconsistent.
+I took them at face value however, (lol.. yay puns) and then as my trial 30 days wound down, was sufficiently *not* dissatisfied enough that I let it auto order for me my first full kit. (I will say however, it seems that my face is now TOO oily and I wanted to keep an eye on things and perhaps back off as the over-oiliness has exchanged dryness and occasional rosacea for breakouts). However I couldn’t, even from their backend view of my newly created account, TRULY understand what was in my formal kit that would be coming and if it included the mysterious eye cream or not, once more their descriptions and information was very… inconsistent.
 
 I was given an email that my order had shipped on July 22nd and was sent a tracking number. That night I checked it and the number still showed itself in that all too familiar state of “carrier waiting to receive package from shipper” that we all know and love.
 
@@ -45,7 +45,7 @@ The response I got was, uninspiring….
 
 - - - - - -
 
-> *Thanks for checking in. So I can see that we shipped your order on July 22 2022, so it’s definitely on the way now and here’s the link again to track it: https://webtrack.dhlglobalmail.com/?trackingnumber=420891XXXXXXXXXXXXXXXXXXX30821*  
+> *Thanks for checking in. So I can see that we shipped your order on July 22 2022, so it’s definitely on the way now and here’s the link again to track it: [https://webtrack.dhlglobalmail.com/?trackingnumber=420891XXXXXXXXXXXXXXXXXXX30821](https://webtrack.dhlglobalmail.com/?trackingnumber=420891XXXXXXXXXXXXXXXXXXX30821*)
 >   
 > *We see many packages that look stuck in the system (often marked as “In Transit” or “Processing”) that are in fact on the way and DO get delivered.*  
 >   

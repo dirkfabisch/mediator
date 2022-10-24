@@ -1,6 +1,5 @@
 ---
-id: 82
-title: 'Battlecruiser Operational&#8230;. in time-lapse.'
+title: 'Battlecruiser Operational: in time-lapse.'
 date: '2011-11-20T06:18:14-08:00'
 author: Sargonas
 layout: post
@@ -19,7 +18,7 @@ tags:
     - 'Star Craft'
     - 'Time Lapse'
     - videography
-    - youtube
+    - YouTube
 ---
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="495" loading="lazy" src="https://www.youtube.com/embed/JY1jQRjkWzg?feature=oembed" title="BlizzCon 2011 SC2 Battlecruiser Time Lapse" width="880"></iframe>

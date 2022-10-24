@@ -15,7 +15,7 @@ tags:
     - Gaming
 ---
 
-[  ](/assets/article_images/imported/2015/12/Screenshot_0018.png)Well, back down the rabbit hole we go! Last year around this time I got pretty hard into Elite: Dangerous, but around March due to work and other things I sorta fell out a bit.. and as most of you know once you get too far out of a game it’s hard to get back in.
+[](/assets/article_images/imported/2015/12/Screenshot_0018.png)Well, back down the rabbit hole we go! Last year around this time I got pretty hard into Elite: Dangerous, but around March due to work and other things I sorta fell out a bit.. and as most of you know once you get too far out of a game it’s hard to get back in.
 
 Flash forward to now, and they’ve announced a new expansion, Horizons, which allows you to LAND ON FREAKING PLANETS! Between this, and the pending launch of the retail version of an Oculus (which I dabbled with the DK2 with in Elite, HOLY CRAP!) I figured it was time to get back in.
 
