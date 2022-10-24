@@ -41,8 +41,8 @@ Basically I’ve gotten it to a mostly functional state. It’s not pretty (virt
 
 ![Screenshot 2016-05-28 22.08.56](/assets/article_images/imported/2016/05/Screenshot-2016-05-28-22.08.56-1024x555.png)
 
-I think the biggest thing from holding me back is the freaking UX. I don’t have the patience to learn CSS on top of everything else. I’ve also created a monumental backlog of features I want to add, learning them incrementally as I go. So far it’s going ok, but the backlog is getting progressively harder and sooner or later I’m gonna hit my skillcap… oh yeah, don’t even ask me about Unit Tests ok? 🙁
+I think the biggest thing from holding me back is the freaking UX. I don’t have the patience to learn CSS on top of everything else. I’ve also created a monumental backlog of features I want to add, learning them incrementally as I go. So far it’s going OK, but the backlog is getting progressively harder and sooner or later I’m gonna hit my skillcap… oh yeah, don’t even ask me about Unit Tests ok? 🙁
 
 Anyone care to lend a hand?
 
-https://github.com/sargonas/AnvilTracker/issues
+[https://github.com/sargonas/AnvilTracker/issues](https://github.com/sargonas/AnvilTracker/issues)

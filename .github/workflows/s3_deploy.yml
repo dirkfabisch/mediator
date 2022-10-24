@@ -3,8 +3,10 @@ name: S3 Build and Deploy
 # Controls when the action will run. 
 on:
   # Triggers the workflow on push for the main branch
-  push:
-    branches: [ main ]
+  workflow_run:
+    workflows: [ "Lint Code Base" ]
+    types: 
+      - completed
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -16,8 +18,9 @@ env:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  build:
+  on-success:
     runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
     - uses: actions/checkout@v2
     - name: Set up Ruby
@@ -33,3 +36,9 @@ jobs:
       run: aws s3 sync ./_site/ s3://${{ secrets.AWS_S3_BUCKET_NAME }} --delete --cache-control max-age=604800 --exclude "LICENSE" --exclude "README.md"
     - name: "Create AWS Cloudfront Invalidation"
       run: aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
+
+  on-failure:
+     runs-on: ubuntu-latest
+     if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+     steps:
+       - run: echo "Linter failed, skipping deploy."

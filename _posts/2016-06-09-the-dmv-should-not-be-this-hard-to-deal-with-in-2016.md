@@ -33,7 +33,7 @@ In 2016, I can’t believe dealing with the DMV is still *this* convoluted and a
 Whomever said complaining about something on twitter doesn’t fix it clearly underestimates the CA DMV!
 
 </div>> We would like to assist you. Please email your contact info to us at CPDCCSSM@dmv.ca.gov.
-> 
+>
 > — CA DMV (@CA\_DMV) [June 9, 2016](https://twitter.com/CA_DMV/status/741023231457538050?ref_src=twsrc%5Etfw)
 
 <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>

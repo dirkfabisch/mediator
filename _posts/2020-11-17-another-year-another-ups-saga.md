@@ -46,7 +46,7 @@ This morning I watched it closely so I would know when to walk over to get it, a
 “Address Information Required  
 The shipping address provided is either incorrect or incomplete. “
 
-![](/assets/article_images/imported/2020/11/image-1.png)Bear in mind I played no part in specifying the UPS store’s address… it was pre-filled by the UPS website when I selected “deliver to a store” as an option to re-route it and picked this location from the drop down. How on earth could the address in their system for one of the busier UPS locations in the area be WRONG?
+![](/assets/article_images/imported/2020/11/image-1.png)Bear in mind I played no part in specifying the UPS store’s address… it was pre-filled by the UPS site when I selected “deliver to a store” as an option to re-route it and picked this location from the drop down. How on earth could the address in their system for one of the busier UPS locations in the area be WRONG?
 
 I looked it up… it’s not.
 

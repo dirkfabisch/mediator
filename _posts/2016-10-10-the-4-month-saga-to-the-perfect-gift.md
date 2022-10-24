@@ -24,7 +24,7 @@ tags:
     - white-gold
 ---
 
-So, back in the late spring/early summer a new regular popped up in the League of Legends subreddit. His name was [/u/Xplo85](http://reddit.com/u/Xplo85) aka [ThatJewelryDesigner ](https://www.facebook.com/ThatJewelryDesigner/)(more properly known as Christopher) and he was doing a kick ass job designing jewelry based on champions from League of Legends (and now other games too).
+So, back in the late spring/early summer a new regular popped up in the League of Legends subreddit. His name was [/u/Xplo85](http://reddit.com/u/Xplo85) aka [ThatJewelryDesigner](https://www.facebook.com/ThatJewelryDesigner/)(more properly known as Christopher) and he was doing a kick ass job designing jewelry based on champions from League of Legends (and now other games too).
 
 I thought about it a bit, and realized this was my chance to finally one-up my girlfriend, Victoria ([@Aoitsukihime)](http://twitter.com/aoitsukihime), on all the PAX presents she has gotten for me each year and put myself in the black on the balance for a long time to come. 😉  
 So, I reached out to Christopher and we started a dialogue about what I had in mind. In short, I wanted something Sona inspired, with blue sapphires (blue being her favorite color and appropriate for the design).

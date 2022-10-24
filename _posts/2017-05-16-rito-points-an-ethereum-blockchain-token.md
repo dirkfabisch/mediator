@@ -30,7 +30,7 @@ As a means to tinker even more with some of the exciting fun stuff you can do wi
 
 1. Log into your MyEtherWallet, and on the left hand menu select “**Add Custom Token**” (in some other apps this will be called **“Watch Contract”** or **“Watch Token”.**)
 2. Under address, enter `<strong>0x8ea88ddefa3b470b51c108475ed2073845a3944c</strong>`  
-    *(In a perfect world, the remaining fields will auto-complete for you. In case they do not, use the following:)*
+    *(In a perfect world, the remaining fields will autocomplete for you. In case they do not, use the following:)*
 3. Under Token Symbol enter `<strong>RP</strong>`
 4. Under Decimals enter `<b>4</b>` *(I tried to keep it simple yet flexible.)*
 
