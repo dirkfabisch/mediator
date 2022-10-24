@@ -6,8 +6,7 @@ author: Sargonas
 layout: post
 guid: 'http://sargonas.com/?p=393'
 permalink: /my-franken-code/
-amazonS3_cache:
-    - 'a:8:{s:76:"//sargonas.com/assets/article_images/imported/2016/05/Screenshot-2016-05-28-22.12.51.png";a:2:{s:2:"id";i:395;s:11:"source_type";s:13:"media-library";}s:85:"//sargonas.com/assets/article_images/imported/2016/05/Screenshot-2016-05-28-22.12.51-1024x578.png";a:2:{s:2:"id";i:395;s:11:"source_type";s:13:"media-library";}s:116:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/05/Screenshot-2016-05-28-22.12.51.png";a:2:{s:2:"id";i:395;s:11:"source_type";s:13:"media-library";}s:125:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/05/Screenshot-2016-05-28-22.12.51-1024x578.png";a:2:{s:2:"id";i:395;s:11:"source_type";s:13:"media-library";}s:76:"//sargonas.com/assets/article_images/imported/2016/05/Screenshot-2016-05-28-22.08.56.png";a:2:{s:2:"id";i:397;s:11:"source_type";s:13:"media-library";}s:85:"//sargonas.com/assets/article_images/imported/2016/05/Screenshot-2016-05-28-22.08.56-1024x555.png";a:2:{s:2:"id";i:397;s:11:"source_type";s:13:"media-library";}s:116:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/05/Screenshot-2016-05-28-22.08.56.png";a:2:{s:2:"id";i:397;s:11:"source_type";s:13:"media-library";}s:125:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/05/Screenshot-2016-05-28-22.08.56-1024x555.png";a:2:{s:2:"id";i:397;s:11:"source_type";s:13:"media-library";}}'
+
 image: '/assets/article_images/imported/2016/05/ultimaker3-825x510.jpg'
 categories:
     - Geekery

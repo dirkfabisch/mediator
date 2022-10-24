@@ -6,8 +6,7 @@ author: Sargonas
 layout: post
 guid: 'https://sargonas.com/?p=185450'
 permalink: /dear-amazon-i-am-not-some-random-guy-in-forney-tx/
-amazonS3_cache:
-    - 'a:8:{s:51:"//sargonas.com/assets/article_images/imported/2022/04/image.png";a:2:{s:2:"id";i:185475;s:11:"source_type";s:13:"media-library";}s:91:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2022/04/image.png";a:2:{s:2:"id";i:185475;s:11:"source_type";s:13:"media-library";}s:53:"//sargonas.com/assets/article_images/imported/2022/04/image-1.png";a:2:{s:2:"id";i:185500;s:11:"source_type";s:13:"media-library";}s:62:"//sargonas.com/assets/article_images/imported/2022/04/image-1-1024x432.png";a:2:{s:2:"id";i:185500;s:11:"source_type";s:13:"media-library";}s:93:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2022/04/image-1.png";a:2:{s:2:"id";i:185500;s:11:"source_type";s:13:"media-library";}s:102:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2022/04/image-1-1024x432.png";a:2:{s:2:"id";i:185500;s:11:"source_type";s:13:"media-library";}s:53:"//sargonas.com/assets/article_images/imported/2022/04/image-2.png";a:2:{s:2:"id";i:185501;s:11:"source_type";s:13:"media-library";}s:93:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2022/04/image-2.png";a:2:{s:2:"id";i:185501;s:11:"source_type";s:13:"media-library";}}'
+
 image: '/assets/article_images/imported/2022/04/amazon-666x627.png'
 categories:
     - Rants

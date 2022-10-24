@@ -6,8 +6,7 @@ author: Sargonas
 layout: post
 guid: 'http://sargonas.com/?p=1'
 permalink: /elite-dangerous/
-amazonS3_cache:
-    - 'a:2:{s:61:"//sargonas.com/assets/article_images/imported/2015/12/Screenshot_0018.png";a:2:{s:2:"id";s:3:"198";s:11:"source_type";s:13:"media-library";}s:101:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2015/12/Screenshot_0018.png";a:2:{s:2:"id";s:3:"198";s:11:"source_type";s:13:"media-library";}}'
+
 image: '/assets/article_images/imported/2015/12/Screenshot_0018-825x510.png'
 categories:
     - Gaming

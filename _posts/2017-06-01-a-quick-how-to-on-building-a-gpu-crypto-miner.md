@@ -6,8 +6,7 @@ author: Sargonas
 layout: post
 guid: 'http://sargonas.com/?p=528'
 permalink: /a-quick-how-to-on-building-a-gpu-crypto-miner/
-amazonS3_cache:
-    - 'a:6:{s:58:"//sargonas.com/assets/article_images/imported/2017/06/w0tctdzwhf17.png";a:2:{s:2:"id";i:542;s:11:"source_type";s:13:"media-library";}s:67:"//sargonas.com/assets/article_images/imported/2017/06/w0tctdzwhf17-1024x821.png";a:2:{s:2:"id";i:542;s:11:"source_type";s:13:"media-library";}s:98:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2017/06/w0tctdzwhf17.png";a:2:{s:2:"id";i:542;s:11:"source_type";s:13:"media-library";}s:107:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2017/06/w0tctdzwhf17-1024x821.png";a:2:{s:2:"id";i:542;s:11:"source_type";s:13:"media-library";}s:57:"//sargonas.com/assets/article_images/imported/2017/06/beforeafter.png";a:2:{s:2:"id";i:543;s:11:"source_type";s:13:"media-library";}s:97:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2017/06/beforeafter.png";a:2:{s:2:"id";i:543;s:11:"source_type";s:13:"media-library";}}'
+
 image: '/assets/article_images/imported/2017/05/rig-e1496259424588-825x510.jpg'
 categories:
     - 'Crypto Currencies'

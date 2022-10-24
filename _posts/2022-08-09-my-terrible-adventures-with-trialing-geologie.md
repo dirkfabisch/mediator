@@ -6,8 +6,7 @@ author: Sargonas
 layout: post
 guid: 'https://sargonas.com/?p=267079'
 permalink: /my-terrible-adventures-with-trialing-geologie/
-amazonS3_cache:
-    - 'a:4:{s:80:"//sargonas.com/assets/article_images/imported/2022/08/Screen-Shot-2022-08-09-at-19.05.35.png";a:2:{s:2:"id";i:267155;s:11:"source_type";s:13:"media-library";}s:89:"//sargonas.com/assets/article_images/imported/2022/08/Screen-Shot-2022-08-09-at-19.05.35-1024x667.png";a:2:{s:2:"id";i:267155;s:11:"source_type";s:13:"media-library";}s:120:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2022/08/Screen-Shot-2022-08-09-at-19.05.35.png";a:2:{s:2:"id";i:267155;s:11:"source_type";s:13:"media-library";}s:129:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2022/08/Screen-Shot-2022-08-09-at-19.05.35-1024x667.png";a:2:{s:2:"id";i:267155;s:11:"source_type";s:13:"media-library";}}'
+
 image: '/assets/article_images/imported/2022/08/header-955822714-666x666.jpg'
 categories:
     - Personal

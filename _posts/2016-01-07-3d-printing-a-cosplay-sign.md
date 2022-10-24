@@ -12,8 +12,7 @@ rss_pi_source_md5:
     - 9e6090617d1b5f2a8e9847caf84b28fd
 rss_pi_canonical_url:
     - source_blog
-amazonS3_cache:
-    - 'a:2:{s:51:"//sargonas.com/assets/article_images/imported/2016/01/1f609.png";a:2:{s:2:"id";s:3:"307";s:11:"source_type";s:13:"media-library";}s:91:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/01/1f609.png";a:2:{s:2:"id";s:3:"307";s:11:"source_type";s:13:"media-library";}}'
+
 image: '/assets/article_images/imported/2016/01/11377991_782606191857127_17291080_n.jpg'
 categories:
     - Maker-stuff

@@ -6,8 +6,7 @@ author: Sargonas
 layout: post
 guid: 'http://sargonas.com/?p=511'
 permalink: /rito-points-an-ethereum-blockchain-token/
-amazonS3_cache:
-    - 'a:4:{s:82:"//sargonas.com/assets/article_images/imported/2017/05/Screen-Shot-2017-05-16-at-9.54.42-AM.png";a:2:{s:2:"id";i:516;s:11:"source_type";s:13:"media-library";}s:91:"//sargonas.com/assets/article_images/imported/2017/05/Screen-Shot-2017-05-16-at-9.54.42-AM-1024x634.png";a:2:{s:2:"id";i:516;s:11:"source_type";s:13:"media-library";}s:122:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2017/05/Screen-Shot-2017-05-16-at-9.54.42-AM.png";a:2:{s:2:"id";i:516;s:11:"source_type";s:13:"media-library";}s:131:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2017/05/Screen-Shot-2017-05-16-at-9.54.42-AM-1024x634.png";a:2:{s:2:"id";i:516;s:11:"source_type";s:13:"media-library";}}'
+
 image: '/assets/article_images/imported/2017/05/rpheader.png'
 categories:
     - Geekery

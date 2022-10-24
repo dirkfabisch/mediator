@@ -6,8 +6,7 @@ author: Sargonas
 layout: post
 guid: 'http://sargonas.com/?p=68466'
 permalink: /another-year-another-ups-saga/
-amazonS3_cache:
-    - 'a:4:{s:53:"//sargonas.com/assets/article_images/imported/2020/11/image-1.png";a:2:{s:2:"id";i:68468;s:11:"source_type";s:13:"media-library";}s:93:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2020/11/image-1.png";a:2:{s:2:"id";i:68468;s:11:"source_type";s:13:"media-library";}s:51:"//sargonas.com/assets/article_images/imported/2020/11/image.png";a:2:{s:2:"id";i:68467;s:11:"source_type";s:13:"media-library";}s:91:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2020/11/image.png";a:2:{s:2:"id";i:68467;s:11:"source_type";s:13:"media-library";}}'
+
 image: '/assets/article_images/imported/2020/11/6a00cdf3a48471cb8f00e398bde9580004.jpeg'
 categories:
     - Personal

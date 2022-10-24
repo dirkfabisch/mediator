@@ -6,9 +6,7 @@ author: Sargonas
 layout: post
 guid: 'http://sargonas.com/?p=402'
 permalink: /the-dmv-should-not-be-this-hard-to-deal-with-in-2016/
-amazonS3_cache:
-    - 'a:2:{s:81:"//sargonas.com/assets/article_images/imported/2016/06/customers_waiting_outside_dmv_LA_CA.jpg";a:2:{s:2:"id";i:404;s:11:"source_type";s:13:"media-library";}s:121:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/06/customers_waiting_outside_dmv_LA_CA.jpg";a:2:{s:2:"id";i:404;s:11:"source_type";s:13:"media-library";}}'
-image: '/assets/article_images/imported/2016/06/cropped-7-15-10-blog-logo-825x160.jpg'
+ image: '/assets/article_images/imported/2016/06/cropped-7-15-10-blog-logo-825x160.jpg'
 categories:
     - Personal
     - Rants

@@ -6,8 +6,7 @@ author: Sargonas
 layout: post
 guid: 'http://sargonas.com/?p=336'
 permalink: /googles-project-fi/
-amazonS3_cache:
-    - 'a:6:{s:66:"//sargonas.com/assets/article_images/imported/2016/01/xjalzcgfoakx6mgckpin.png";a:2:{s:2:"id";i:340;s:11:"source_type";s:13:"media-library";}s:106:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/01/xjalzcgfoakx6mgckpin.png";a:2:{s:2:"id";i:340;s:11:"source_type";s:13:"media-library";}s:76:"//sargonas.com/assets/article_images/imported/2016/01/Screenshot-2016-01-27-16.37.20.png";a:2:{s:2:"id";i:339;s:11:"source_type";s:13:"media-library";}s:85:"//sargonas.com/assets/article_images/imported/2016/01/Screenshot-2016-01-27-16.37.20-1024x582.png";a:2:{s:2:"id";i:339;s:11:"source_type";s:13:"media-library";}s:116:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/01/Screenshot-2016-01-27-16.37.20.png";a:2:{s:2:"id";i:339;s:11:"source_type";s:13:"media-library";}s:125:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/01/Screenshot-2016-01-27-16.37.20-1024x582.png";a:2:{s:2:"id";i:339;s:11:"source_type";s:13:"media-library";}}'
+
 image: '/assets/article_images/imported/2016/01/ProjectFi.png'
 categories:
     - Geekery

@@ -6,8 +6,7 @@ author: Sargonas
 layout: post
 guid: 'http://sargonas.com/?p=322'
 permalink: /retropie-quick-and-easy-rundown-on-your-own-pi-based-retro-console/
-amazonS3_cache:
-    - 'a:8:{s:52:"//sargonas.com/assets/article_images/imported/2016/01/file_4.png";a:2:{s:2:"id";i:327;s:11:"source_type";s:13:"media-library";}s:92:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/01/file_4.png";a:2:{s:2:"id";i:327;s:11:"source_type";s:13:"media-library";}s:58:"//sargonas.com/assets/article_images/imported/2016/01/raspi-config.png";a:2:{s:2:"id";i:326;s:11:"source_type";s:13:"media-library";}s:98:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/01/raspi-config.png";a:2:{s:2:"id";i:326;s:11:"source_type";s:13:"media-library";}s:78:"//sargonas.com/assets/article_images/imported/2016/01/20150809_232422_preview_featured.jpg";a:2:{s:2:"id";i:333;s:11:"source_type";s:13:"media-library";}s:118:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/01/20150809_232422_preview_featured.jpg";a:2:{s:2:"id";i:333;s:11:"source_type";s:13:"media-library";}s:109:"//sargonas.com/assets/article_images/imported/2016/01/12509554_10153356492590509_7193432881580109416_n-e1453419544812.jpg";a:2:{s:2:"id";i:329;s:11:"source_type";s:13:"media-library";}s:149:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/01/12509554_10153356492590509_7193432881580109416_n-e1453419544812.jpg";a:2:{s:2:"id";i:329;s:11:"source_type";s:13:"media-library";}}'
+
 image: '/assets/article_images/imported/2016/01/splashscreen-825x510.png'
 categories:
     - Gaming
