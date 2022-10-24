@@ -6,7 +6,7 @@ author: Sargonas
 layout: post
 guid: 'https://sargonas.com/?p=150627'
 permalink: /major-life-change-v-2021-part-2/
-image: '/wp-content/uploads/2022/02/download-666x481.jpeg'
+image: '/assets/article_images/imported/2022/02/download-666x481.jpeg'
 categories:
     - 'Crypto Currencies'
     - Personal

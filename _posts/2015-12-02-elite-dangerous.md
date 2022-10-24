@@ -7,8 +7,8 @@ layout: post
 guid: 'http://sargonas.com/?p=1'
 permalink: /elite-dangerous/
 amazonS3_cache:
-    - 'a:2:{s:61:"//sargonas.com/wp-content/uploads/2015/12/Screenshot_0018.png";a:2:{s:2:"id";s:3:"198";s:11:"source_type";s:13:"media-library";}s:101:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2015/12/Screenshot_0018.png";a:2:{s:2:"id";s:3:"198";s:11:"source_type";s:13:"media-library";}}'
-image: '/wp-content/uploads/2015/12/Screenshot_0018-825x510.png'
+    - 'a:2:{s:61:"//sargonas.com/assets/article_images/imported/2015/12/Screenshot_0018.png";a:2:{s:2:"id";s:3:"198";s:11:"source_type";s:13:"media-library";}s:101:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2015/12/Screenshot_0018.png";a:2:{s:2:"id";s:3:"198";s:11:"source_type";s:13:"media-library";}}'
+image: '/assets/article_images/imported/2015/12/Screenshot_0018-825x510.png'
 categories:
     - Gaming
 tags:
@@ -16,7 +16,7 @@ tags:
     - Gaming
 ---
 
-[  ](/wp-content/uploads/2015/12/Screenshot_0018.png)Well, back down the rabbit hole we go! Last year around this time I got pretty hard into Elite: Dangerous, but around March due to work and other things I sorta fell out a bit.. and as most of you know once you get too far out of a game it’s hard to get back in.
+[  ](/assets/article_images/imported/2015/12/Screenshot_0018.png)Well, back down the rabbit hole we go! Last year around this time I got pretty hard into Elite: Dangerous, but around March due to work and other things I sorta fell out a bit.. and as most of you know once you get too far out of a game it’s hard to get back in.
 
 Flash forward to now, and they’ve announced a new expansion, Horizons, which allows you to LAND ON FREAKING PLANETS! Between this, and the pending launch of the retail version of an Oculus (which I dabbled with the DK2 with in Elite, HOLY CRAP!) I figured it was time to get back in.
 

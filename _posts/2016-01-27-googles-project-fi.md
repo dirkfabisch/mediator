@@ -7,8 +7,8 @@ layout: post
 guid: 'http://sargonas.com/?p=336'
 permalink: /googles-project-fi/
 amazonS3_cache:
-    - 'a:6:{s:66:"//sargonas.com/wp-content/uploads/2016/01/xjalzcgfoakx6mgckpin.png";a:2:{s:2:"id";i:340;s:11:"source_type";s:13:"media-library";}s:106:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2016/01/xjalzcgfoakx6mgckpin.png";a:2:{s:2:"id";i:340;s:11:"source_type";s:13:"media-library";}s:76:"//sargonas.com/wp-content/uploads/2016/01/Screenshot-2016-01-27-16.37.20.png";a:2:{s:2:"id";i:339;s:11:"source_type";s:13:"media-library";}s:85:"//sargonas.com/wp-content/uploads/2016/01/Screenshot-2016-01-27-16.37.20-1024x582.png";a:2:{s:2:"id";i:339;s:11:"source_type";s:13:"media-library";}s:116:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2016/01/Screenshot-2016-01-27-16.37.20.png";a:2:{s:2:"id";i:339;s:11:"source_type";s:13:"media-library";}s:125:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2016/01/Screenshot-2016-01-27-16.37.20-1024x582.png";a:2:{s:2:"id";i:339;s:11:"source_type";s:13:"media-library";}}'
-image: '/wp-content/uploads/2016/01/ProjectFi.png'
+    - 'a:6:{s:66:"//sargonas.com/assets/article_images/imported/2016/01/xjalzcgfoakx6mgckpin.png";a:2:{s:2:"id";i:340;s:11:"source_type";s:13:"media-library";}s:106:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/01/xjalzcgfoakx6mgckpin.png";a:2:{s:2:"id";i:340;s:11:"source_type";s:13:"media-library";}s:76:"//sargonas.com/assets/article_images/imported/2016/01/Screenshot-2016-01-27-16.37.20.png";a:2:{s:2:"id";i:339;s:11:"source_type";s:13:"media-library";}s:85:"//sargonas.com/assets/article_images/imported/2016/01/Screenshot-2016-01-27-16.37.20-1024x582.png";a:2:{s:2:"id";i:339;s:11:"source_type";s:13:"media-library";}s:116:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/01/Screenshot-2016-01-27-16.37.20.png";a:2:{s:2:"id";i:339;s:11:"source_type";s:13:"media-library";}s:125:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/01/Screenshot-2016-01-27-16.37.20-1024x582.png";a:2:{s:2:"id";i:339;s:11:"source_type";s:13:"media-library";}}'
+image: '/assets/article_images/imported/2016/01/ProjectFi.png'
 categories:
     - Geekery
 tags:
@@ -30,7 +30,7 @@ So a while back I was invited to Googles “Project Fi”. For those who don’t
 
 It works like this, you obtain, either on your own or from Google one of their “Fi capable” phones. These are newer model Nexus phones (the 5X and 6P specifically) that have newer radios in it that support the magical Fi network. What makes this network special is two parts: One, they are adaptive. It leverages both the Sprint and T-mobile’s 4G networks, and combined with them and any available WiFi network will always work to put you on the most optimal signal. Two, it’s cheap. There is a $20 basic service fee for your phone that includes unlimited text and calling. Then you pay an additional $10 per month for each Gigabyte of mobile data you want. Go over? You pay $10 rounded up to the nearest Gig for the extra used. Go under? They credit back the unused amount to your account for the data you didn’t use… PER MEGABYTE!
 
-[![xjalzcgfoakx6mgckpin](/wp-content/uploads/2016/01/xjalzcgfoakx6mgckpin.png)](/wp-content/uploads/2016/01/xjalzcgfoakx6mgckpin.png)
+[![xjalzcgfoakx6mgckpin](/assets/article_images/imported/2016/01/xjalzcgfoakx6mgckpin.png)](/assets/article_images/imported/2016/01/xjalzcgfoakx6mgckpin.png)
 
 Whaaaaaat?
 
@@ -38,7 +38,7 @@ Yeah, you read that right. Currently I’m paying $79 a month for my iPhone with
 
 There’s a few other perks too, such as being able to use it as a hotspot, getting the same cost rate around pretty much the entire world (roughly 120 countries at current count), no contract, and some pretty stellar customer support. (They dropped the price on the Nexus 5X about 4 days after I ordered mine. I hit up their support via chat (took about 30 seconds) and they immediately credited my account the $50 difference without hesitation.)
 
-[![Screenshot 2016-01-27 16.37.20](/wp-content/uploads/2016/01/Screenshot-2016-01-27-16.37.20-1024x582.png)](/wp-content/uploads/2016/01/Screenshot-2016-01-27-16.37.20.png)
+[![Screenshot 2016-01-27 16.37.20](/assets/article_images/imported/2016/01/Screenshot-2016-01-27-16.37.20-1024x582.png)](/assets/article_images/imported/2016/01/Screenshot-2016-01-27-16.37.20.png)
 
 I’ve now had it for about a week, and I am \*already\* having to constantly restrain myself from immediately porting my iPhone number (that I have had since ’99) over to the phone. I likely am going to, regardless, but I want to put more thought into it and not making it a knee jerk reaction. That said, the service is amazing, the phone is killer, and the pricing is stupidly good. If you get an invite, and especially if you are already an Android user.. I highly recommended you consider the swap!
 

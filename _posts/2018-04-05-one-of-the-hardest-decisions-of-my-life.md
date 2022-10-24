@@ -6,7 +6,7 @@ author: Sargonas
 layout: post
 guid: 'http://sargonas.com/?p=678'
 permalink: /one-of-the-hardest-decisions-of-my-life/
-image: '/wp-content/uploads/2018/04/RiotExterior_86841.jpg'
+image: '/assets/article_images/imported/2018/04/RiotExterior_86841.jpg'
 categories:
     - Personal
     - Work

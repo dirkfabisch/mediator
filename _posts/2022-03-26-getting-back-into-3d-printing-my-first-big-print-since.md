@@ -7,7 +7,7 @@ excerpt: "After 2 weeks of getting back on the horse, tried my first 30-hour, ov
 layout: post
 guid: 'https://sargonas.com/?p=176799'
 permalink: /getting-back-into-3d-printing-my-first-big-print-since/
-image: '/wp-content/uploads/2022/03/IMG_0545-666x666.jpg'
+image: '/assets/article_images/imported/2022/03/IMG_0545-666x666.jpg'
 categories:
     - Maker-stuff
 tags:

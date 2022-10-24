@@ -7,8 +7,8 @@ layout: post
 guid: 'http://sargonas.com/?p=484'
 permalink: /razer-blade-woes-round-2-the-amazoning/
 amazonS3_cache:
-    - 'a:10:{s:76:"//sargonas.com/wp-content/uploads/2016/11/Screenshot-2016-11-06-22.26.54.png";a:2:{s:2:"id";i:487;s:11:"source_type";s:13:"media-library";}s:85:"//sargonas.com/wp-content/uploads/2016/11/Screenshot-2016-11-06-22.26.54-1024x559.png";a:2:{s:2:"id";i:487;s:11:"source_type";s:13:"media-library";}s:116:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2016/11/Screenshot-2016-11-06-22.26.54.png";a:2:{s:2:"id";i:487;s:11:"source_type";s:13:"media-library";}s:125:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2016/11/Screenshot-2016-11-06-22.26.54-1024x559.png";a:2:{s:2:"id";i:487;s:11:"source_type";s:13:"media-library";}s:76:"//sargonas.com/wp-content/uploads/2016/11/Screenshot-2016-11-06-22.31.32.png";a:2:{s:2:"id";i:488;s:11:"source_type";s:13:"media-library";}s:116:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2016/11/Screenshot-2016-11-06-22.31.32.png";a:2:{s:2:"id";i:488;s:11:"source_type";s:13:"media-library";}s:76:"//sargonas.com/wp-content/uploads/2016/11/Screenshot-2016-11-06-22.29.30.png";a:2:{s:2:"id";i:490;s:11:"source_type";s:13:"media-library";}s:116:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2016/11/Screenshot-2016-11-06-22.29.30.png";a:2:{s:2:"id";i:490;s:11:"source_type";s:13:"media-library";}s:76:"//sargonas.com/wp-content/uploads/2016/11/Screenshot-2016-11-07-13.31.57.png";a:2:{s:2:"id";i:492;s:11:"source_type";s:13:"media-library";}s:116:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2016/11/Screenshot-2016-11-07-13.31.57.png";a:2:{s:2:"id";i:492;s:11:"source_type";s:13:"media-library";}}'
-image: '/wp-content/uploads/2016/11/hqdefault.jpg'
+    - 'a:10:{s:76:"//sargonas.com/assets/article_images/imported/2016/11/Screenshot-2016-11-06-22.26.54.png";a:2:{s:2:"id";i:487;s:11:"source_type";s:13:"media-library";}s:85:"//sargonas.com/assets/article_images/imported/2016/11/Screenshot-2016-11-06-22.26.54-1024x559.png";a:2:{s:2:"id";i:487;s:11:"source_type";s:13:"media-library";}s:116:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/11/Screenshot-2016-11-06-22.26.54.png";a:2:{s:2:"id";i:487;s:11:"source_type";s:13:"media-library";}s:125:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/11/Screenshot-2016-11-06-22.26.54-1024x559.png";a:2:{s:2:"id";i:487;s:11:"source_type";s:13:"media-library";}s:76:"//sargonas.com/assets/article_images/imported/2016/11/Screenshot-2016-11-06-22.31.32.png";a:2:{s:2:"id";i:488;s:11:"source_type";s:13:"media-library";}s:116:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/11/Screenshot-2016-11-06-22.31.32.png";a:2:{s:2:"id";i:488;s:11:"source_type";s:13:"media-library";}s:76:"//sargonas.com/assets/article_images/imported/2016/11/Screenshot-2016-11-06-22.29.30.png";a:2:{s:2:"id";i:490;s:11:"source_type";s:13:"media-library";}s:116:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/11/Screenshot-2016-11-06-22.29.30.png";a:2:{s:2:"id";i:490;s:11:"source_type";s:13:"media-library";}s:76:"//sargonas.com/assets/article_images/imported/2016/11/Screenshot-2016-11-07-13.31.57.png";a:2:{s:2:"id";i:492;s:11:"source_type";s:13:"media-library";}s:116:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/11/Screenshot-2016-11-07-13.31.57.png";a:2:{s:2:"id";i:492;s:11:"source_type";s:13:"media-library";}}'
+image: '/assets/article_images/imported/2016/11/hqdefault.jpg'
 categories:
     - Geekery
     - Rants
@@ -34,11 +34,11 @@ After giving up on the Razer store, I move on to Amazon.com once I learn in the 
 
 At 2:30 PM on Sunday I get notification it has shipped, this gets me really excited, since I bought next-day shipping! However I look on Amazon.coma and it still shows an estimated delivery date of Tuesday. What?
 
-![screenshot-2016-11-06-22-26-54](/wp-content/uploads/2016/11/Screenshot-2016-11-06-22.26.54-1024x559.png)
+![screenshot-2016-11-06-22-26-54](/assets/article_images/imported/2016/11/Screenshot-2016-11-06-22.26.54-1024x559.png)
 
 I check the UPS tracking number on UPS’s site instead of amazons to see what it shows for comparison.. it shows it as a 2-day package with delivery due Wesdnesday.
 
-![screenshot-2016-11-06-22-31-32](/wp-content/uploads/2016/11/Screenshot-2016-11-06-22.31.32.png)
+![screenshot-2016-11-06-22-31-32](/assets/article_images/imported/2016/11/Screenshot-2016-11-06-22.31.32.png)
 
 WHAT?!
 
@@ -54,12 +54,12 @@ Reluctantly, I tell her I guess we’ll just let things lie where they are right
 
 Considering I paid amazon for ***next day*** shipping on an ***in-stock item*** on 1pm on a ***Friday*** afternoon.. I’m a little peeved!
 
-![screenshot-2016-11-06-22-29-30](/wp-content/uploads/2016/11/Screenshot-2016-11-06-22.29.30.png)
+![screenshot-2016-11-06-22-29-30](/assets/article_images/imported/2016/11/Screenshot-2016-11-06-22.29.30.png)
 
 *(Amazon’s shipping reliability is getting consistently more and more unreliable… <span class="_47e3" title="squint emoticon">![](https://www.facebook.com/images/emoji.php/v5/fee/1/16/1f611.png)<span class="_7oe">-\_-</span></span> I’ve had over 11 credits to my account for delayed shipments in the last 12 months.)*
 
 **UPDATE- Monday 1:30pm PST:** So, no call yet from Amazon following up on the issue, but I got an urge while relaying this story to a friend to check the UPS tracking number just to see if anything changed before I published this post. Lo and behold, it looks like Amazon managed to fix it before UPS took possession! The Expected delivery has changed from “By end of day Wednesday” to “Early Tuesday”!
 
-![screenshot-2016-11-07-13-31-57](/wp-content/uploads/2016/11/Screenshot-2016-11-07-13.31.57.png)
+![screenshot-2016-11-07-13-31-57](/assets/article_images/imported/2016/11/Screenshot-2016-11-07-13.31.57.png)
 
 I’m going to withhold my elation and celebration until it is actually in my hands, but things are starting to look promising!

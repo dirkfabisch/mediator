@@ -6,7 +6,7 @@ author: Sargonas
 layout: post
 guid: 'http://sargonas.com/?p=501'
 permalink: /accepting-trump-is-president-does-not-mean-you-have-to-accept-he-is-a-terrible-person/
-image: '/wp-content/uploads/2017/01/white-house-825x510.jpg'
+image: '/assets/article_images/imported/2017/01/white-house-825x510.jpg'
 categories:
     - Personal
     - Rants

@@ -6,7 +6,7 @@ author: Sargonas
 layout: post
 guid: 'http://sargonas.com/?p=250'
 permalink: /star-wars-vii-theory/
-image: '/wp-content/uploads/2015/12/Star-Wars-Episode-7-Title-Force-Awakens-Logo_0.jpg'
+image: '/assets/article_images/imported/2015/12/Star-Wars-Episode-7-Title-Force-Awakens-Logo_0.jpg'
 categories:
     - Geekery
 tags:

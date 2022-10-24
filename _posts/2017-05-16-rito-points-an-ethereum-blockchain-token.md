@@ -7,8 +7,8 @@ layout: post
 guid: 'http://sargonas.com/?p=511'
 permalink: /rito-points-an-ethereum-blockchain-token/
 amazonS3_cache:
-    - 'a:4:{s:82:"//sargonas.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-16-at-9.54.42-AM.png";a:2:{s:2:"id";i:516;s:11:"source_type";s:13:"media-library";}s:91:"//sargonas.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-16-at-9.54.42-AM-1024x634.png";a:2:{s:2:"id";i:516;s:11:"source_type";s:13:"media-library";}s:122:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-16-at-9.54.42-AM.png";a:2:{s:2:"id";i:516;s:11:"source_type";s:13:"media-library";}s:131:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-16-at-9.54.42-AM-1024x634.png";a:2:{s:2:"id";i:516;s:11:"source_type";s:13:"media-library";}}'
-image: '/wp-content/uploads/2017/05/rpheader.png'
+    - 'a:4:{s:82:"//sargonas.com/assets/article_images/imported/2017/05/Screen-Shot-2017-05-16-at-9.54.42-AM.png";a:2:{s:2:"id";i:516;s:11:"source_type";s:13:"media-library";}s:91:"//sargonas.com/assets/article_images/imported/2017/05/Screen-Shot-2017-05-16-at-9.54.42-AM-1024x634.png";a:2:{s:2:"id";i:516;s:11:"source_type";s:13:"media-library";}s:122:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2017/05/Screen-Shot-2017-05-16-at-9.54.42-AM.png";a:2:{s:2:"id";i:516;s:11:"source_type";s:13:"media-library";}s:131:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2017/05/Screen-Shot-2017-05-16-at-9.54.42-AM-1024x634.png";a:2:{s:2:"id";i:516;s:11:"source_type";s:13:"media-library";}}'
+image: '/assets/article_images/imported/2017/05/rpheader.png'
 categories:
     - Geekery
 tags:
@@ -35,7 +35,7 @@ As a means to tinker even more with some of the exciting fun stuff you can do wi
 3. Under Token Symbol enter `<strong>RP</strong>`
 4. Under Decimals enter `<b>4</b>` *(I tried to keep it simple yet flexible.)*
 
-<figure aria-describedby="caption-attachment-516" class="wp-caption aligncenter" id="attachment_516" style="width: 660px">![](/wp-content/uploads/2017/05/Screen-Shot-2017-05-16-at-9.54.42-AM-1024x634.png)<figcaption class="wp-caption-text" id="caption-attachment-516">A screen shot of the contract watch panel within Ethereum Wallet/Mist</figcaption>That’s it! Your wallet now “knows” about Rito Points and can track it’s balance of it as well as send it!
+<figure aria-describedby="caption-attachment-516" class="wp-caption aligncenter" id="attachment_516" style="width: 660px">![](/assets/article_images/imported/2017/05/Screen-Shot-2017-05-16-at-9.54.42-AM-1024x634.png)<figcaption class="wp-caption-text" id="caption-attachment-516">A screen shot of the contract watch panel within Ethereum Wallet/Mist</figcaption>That’s it! Your wallet now “knows” about Rito Points and can track it’s balance of it as well as send it!
 
 ***Update!*** *After tinkering with learning more about the Solidity scripting for the smart contracts, I whipped up a new contract that will accept ETH (in incredibly small amounts) and in return send you some RP to the same address that sent the ETH. The conversion rate is roughly 1,000 RP per .01 ETH (Just under a $1 at current rates). This was purely a learning test as well as a method to automate sending our RP to select interested parties while maintaining an ETH balance to cover TX fees… not an attempt to make any ETH, so please don’t wipe out my account! 😉 To leverage it, just send ETH to the following: `0xdFD326B2C0627Cf37757A790cb72a7861bc72037`*
 

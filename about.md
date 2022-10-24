@@ -4,7 +4,7 @@ title: About J.
 permalink: /about/
 ---
 
-[![](/wp-content/uploads/2022/02/269352942_434954241619307_1315998629936579001_n-819x1024.jpeg)](/wp-content/uploads/2022/02/269352942_434954241619307_1315998629936579001_n.jpeg)
+[![](/assets/article_images/imported/2022/02/269352942_434954241619307_1315998629936579001_n-819x1024.jpeg)](/assets/article_images/imported/2022/02/269352942_434954241619307_1315998629936579001_n.jpeg)
 
 I’m a 16 year veteran of the Video Game Industry (and naturally a dedicated gamer), hobbyist photographer, 3D Printing enthusiast/maker, and devour-er of delicious food. Recently however, I made the leap *out* of the game industry for something else in technology… so we’ll see how that goes!
 

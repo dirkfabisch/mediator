@@ -7,8 +7,8 @@ layout: post
 guid: 'http://sargonas.com/?p=402'
 permalink: /the-dmv-should-not-be-this-hard-to-deal-with-in-2016/
 amazonS3_cache:
-    - 'a:2:{s:81:"//sargonas.com/wp-content/uploads/2016/06/customers_waiting_outside_dmv_LA_CA.jpg";a:2:{s:2:"id";i:404;s:11:"source_type";s:13:"media-library";}s:121:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2016/06/customers_waiting_outside_dmv_LA_CA.jpg";a:2:{s:2:"id";i:404;s:11:"source_type";s:13:"media-library";}}'
-image: '/wp-content/uploads/2016/06/cropped-7-15-10-blog-logo-825x160.jpg'
+    - 'a:2:{s:81:"//sargonas.com/assets/article_images/imported/2016/06/customers_waiting_outside_dmv_LA_CA.jpg";a:2:{s:2:"id";i:404;s:11:"source_type";s:13:"media-library";}s:121:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/06/customers_waiting_outside_dmv_LA_CA.jpg";a:2:{s:2:"id";i:404;s:11:"source_type";s:13:"media-library";}}'
+image: '/assets/article_images/imported/2016/06/cropped-7-15-10-blog-logo-825x160.jpg'
 categories:
     - Personal
     - Rants
@@ -26,7 +26,7 @@ I then decided to wait a week or two, because lord knows government systems are 
 
 Flabbergasted, I ask how this can be. I updated my contact info when I moved in Nov 2014, and again in Feb 2016. Clearly it worked because my ID contact info was mailed to the right place! He informs me that online updates do not work for leased vehicles. What?!? I ask why is it the system *behaves* as though it works then, and why it does not give me any error telling me this.. (also for the record, you online profile for the CA DMV does *not* reference your address to verify what’s on file. This is by design, I’ve been told.)
 
-</div></div><div class="_1mf _1mj" data-offset-key="9fqtr-0-0">He then tells me I can *only* update the address by coming into a local DMV branch in person, (if you live in CA you know what THAT entails, if not, just look at the pic below!) and that I have to fill out a change of address form by hand to do so. After which, I’ll have to fill out another form for a duplicate registration copy, which requires a $50 fee.</div><div class="_1mf _1mj" data-offset-key="9fqtr-0-0"></div><div class="_1mf _1mj" data-offset-key="9fqtr-0-0">![customers_waiting_outside_dmv_LA_CA](/wp-content/uploads/2016/06/customers_waiting_outside_dmv_LA_CA.jpg)</div><div class="_1mf _1mj" data-offset-key="9fqtr-0-0"></div><div class="_1mf _1mj" data-offset-key="9fqtr-0-0">Seriously… I did everything they told me to do in the way in which they told me to do it (proactively I might add!) and now I have to pay a fee for a second copy because \*they\* gave me bad instructions.
+</div></div><div class="_1mf _1mj" data-offset-key="9fqtr-0-0">He then tells me I can *only* update the address by coming into a local DMV branch in person, (if you live in CA you know what THAT entails, if not, just look at the pic below!) and that I have to fill out a change of address form by hand to do so. After which, I’ll have to fill out another form for a duplicate registration copy, which requires a $50 fee.</div><div class="_1mf _1mj" data-offset-key="9fqtr-0-0"></div><div class="_1mf _1mj" data-offset-key="9fqtr-0-0">![customers_waiting_outside_dmv_LA_CA](/assets/article_images/imported/2016/06/customers_waiting_outside_dmv_LA_CA.jpg)</div><div class="_1mf _1mj" data-offset-key="9fqtr-0-0"></div><div class="_1mf _1mj" data-offset-key="9fqtr-0-0">Seriously… I did everything they told me to do in the way in which they told me to do it (proactively I might add!) and now I have to pay a fee for a second copy because \*they\* gave me bad instructions.
 
 In 2016, I can’t believe dealing with the DMV is still *this* convoluted and archaic. The only relief is the fact that my registration IS up to date, I just don’t have the piece of paper to go in my car and a shiny new sticker to go with it.
 

@@ -6,7 +6,7 @@ author: Sargonas
 layout: post
 guid: 'http://sargonas.com/?p=207'
 permalink: /photography-in-elite-dangerous/
-image: '/wp-content/uploads/2015/12/HighResScreenShot_2015-12-07_07-29-49-825x510.png'
+image: '/assets/article_images/imported/2015/12/HighResScreenShot_2015-12-07_07-29-49-825x510.png'
 categories:
     - Gaming
 tags:

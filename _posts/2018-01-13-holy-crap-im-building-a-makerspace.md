@@ -7,8 +7,8 @@ layout: post
 guid: 'http://sargonas.com/?p=561'
 permalink: /holy-crap-im-building-a-makerspace/
 amazonS3_cache:
-    - 'a:4:{s:52:"//sargonas.com/wp-content/uploads/2018/01/suite9.jpg";a:2:{s:2:"id";i:566;s:11:"source_type";s:13:"media-library";}s:60:"//sargonas.com/wp-content/uploads/2018/01/suite9-225x300.jpg";a:2:{s:2:"id";i:566;s:11:"source_type";s:13:"media-library";}s:92:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2018/01/suite9.jpg";a:2:{s:2:"id";i:566;s:11:"source_type";s:13:"media-library";}s:100:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2018/01/suite9-225x300.jpg";a:2:{s:2:"id";i:566;s:11:"source_type";s:13:"media-library";}}'
-image: '/wp-content/uploads/2018/01/makerspace-825x510.jpg'
+    - 'a:4:{s:52:"//sargonas.com/assets/article_images/imported/2018/01/suite9.jpg";a:2:{s:2:"id";i:566;s:11:"source_type";s:13:"media-library";}s:60:"//sargonas.com/assets/article_images/imported/2018/01/suite9-225x300.jpg";a:2:{s:2:"id";i:566;s:11:"source_type";s:13:"media-library";}s:92:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2018/01/suite9.jpg";a:2:{s:2:"id";i:566;s:11:"source_type";s:13:"media-library";}s:100:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2018/01/suite9-225x300.jpg";a:2:{s:2:"id";i:566;s:11:"source_type";s:13:"media-library";}}'
+image: '/assets/article_images/imported/2018/01/makerspace-825x510.jpg'
 categories:
     - Adventures
     - Geekery
@@ -34,7 +34,7 @@ tags:
 </span><span style="font-weight: 400;">It’s a month to month lease so we can experiment as long as its working for us, and either sunset things if they don’t or use it as a springboard to securing a bigger, more appropriate long term space and turning it into a public venture. Additionally the monthly cost is reasonable enough that I am comfortable shouldering it myself as part of the experiment, worst case.</span><span style="font-weight: 400;">  
 </span>
 
-![](/wp-content/uploads/2018/01/suite9-225x300.jpg)
+![](/assets/article_images/imported/2018/01/suite9-225x300.jpg)
 
 <span style="font-weight: 400;">  
 </span><span style="font-weight: 400;">I have no idea what I’m doing and this is probably a stupid idea I’ll regret down the road, but I’m incredibly excited and highly motivated right now!</span><span style="font-weight: 400;">  

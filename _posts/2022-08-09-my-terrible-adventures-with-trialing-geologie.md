@@ -7,8 +7,8 @@ layout: post
 guid: 'https://sargonas.com/?p=267079'
 permalink: /my-terrible-adventures-with-trialing-geologie/
 amazonS3_cache:
-    - 'a:4:{s:80:"//sargonas.com/wp-content/uploads/2022/08/Screen-Shot-2022-08-09-at-19.05.35.png";a:2:{s:2:"id";i:267155;s:11:"source_type";s:13:"media-library";}s:89:"//sargonas.com/wp-content/uploads/2022/08/Screen-Shot-2022-08-09-at-19.05.35-1024x667.png";a:2:{s:2:"id";i:267155;s:11:"source_type";s:13:"media-library";}s:120:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2022/08/Screen-Shot-2022-08-09-at-19.05.35.png";a:2:{s:2:"id";i:267155;s:11:"source_type";s:13:"media-library";}s:129:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2022/08/Screen-Shot-2022-08-09-at-19.05.35-1024x667.png";a:2:{s:2:"id";i:267155;s:11:"source_type";s:13:"media-library";}}'
-image: '/wp-content/uploads/2022/08/header-955822714-666x666.jpg'
+    - 'a:4:{s:80:"//sargonas.com/assets/article_images/imported/2022/08/Screen-Shot-2022-08-09-at-19.05.35.png";a:2:{s:2:"id";i:267155;s:11:"source_type";s:13:"media-library";}s:89:"//sargonas.com/assets/article_images/imported/2022/08/Screen-Shot-2022-08-09-at-19.05.35-1024x667.png";a:2:{s:2:"id";i:267155;s:11:"source_type";s:13:"media-library";}s:120:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2022/08/Screen-Shot-2022-08-09-at-19.05.35.png";a:2:{s:2:"id";i:267155;s:11:"source_type";s:13:"media-library";}s:129:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2022/08/Screen-Shot-2022-08-09-at-19.05.35-1024x667.png";a:2:{s:2:"id";i:267155;s:11:"source_type";s:13:"media-library";}}'
+image: '/assets/article_images/imported/2022/08/header-955822714-666x666.jpg'
 categories:
     - Personal
     - Rants
@@ -78,6 +78,6 @@ Now this is about as weasel-wordy as it gets…. Notice the careful choice of wo
 
 12 hours later, the tracking number MAGICALLY updated, and suddenly DHL had the package. in hand. What a coincidence.
 
-[![](/wp-content/uploads/2022/08/Screen-Shot-2022-08-09-at-19.05.35-1024x667.png)](/wp-content/uploads/2022/08/Screen-Shot-2022-08-09-at-19.05.35.png)It has now arrived, 6 days after that. And guess what? There is no eye cream included in my regimen, as expected… but there is an ingredient list and instruction card for “#5” with formula details and instructions for the eye cream…
+[![](/assets/article_images/imported/2022/08/Screen-Shot-2022-08-09-at-19.05.35-1024x667.png)](/assets/article_images/imported/2022/08/Screen-Shot-2022-08-09-at-19.05.35.png)It has now arrived, 6 days after that. And guess what? There is no eye cream included in my regimen, as expected… but there is an ingredient list and instruction card for “#5” with formula details and instructions for the eye cream…
 
 At this point, I have to assume they do not even remotely have their stuff together, as it were, and are just trying to pump these subscriptions out as fast as possible with quantity over quality, so I’m out. I canceled my future orders and will let them know why.

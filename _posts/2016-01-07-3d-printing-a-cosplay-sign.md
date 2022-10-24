@@ -13,8 +13,8 @@ rss_pi_source_md5:
 rss_pi_canonical_url:
     - source_blog
 amazonS3_cache:
-    - 'a:2:{s:51:"//sargonas.com/wp-content/uploads/2016/01/1f609.png";a:2:{s:2:"id";s:3:"307";s:11:"source_type";s:13:"media-library";}s:91:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2016/01/1f609.png";a:2:{s:2:"id";s:3:"307";s:11:"source_type";s:13:"media-library";}}'
-image: '/wp-content/uploads/2016/01/11377991_782606191857127_17291080_n.jpg'
+    - 'a:2:{s:51:"//sargonas.com/assets/article_images/imported/2016/01/1f609.png";a:2:{s:2:"id";s:3:"307";s:11:"source_type";s:13:"media-library";}s:91:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2016/01/1f609.png";a:2:{s:2:"id";s:3:"307";s:11:"source_type";s:13:"media-library";}}'
+image: '/assets/article_images/imported/2016/01/11377991_782606191857127_17291080_n.jpg'
 categories:
     - Maker-stuff
 tags:
@@ -32,4 +32,4 @@ My idea, was to design and print out a plaque that is roughly the size of a lega
 
 For an added bit of personal touch, I did the design of the name itself in her own handwriting, by simply having her “sign” her cosplay name in my modeling software using my Intuous tablet. I printed it in two colors, a blue base (her favorite) and switched to a white filament for the raised portions to denote the border and her name. I then printed out an appropriately sized QR code, and bonded it to the sign by simply applying a layer of ModgePodge (this stuff is so amazing!) and that was it! I already have some ideas though on how I could enhance this a bit more for a Rev 2, by adding some space behind it to allow her to store some of her business cards for quick retrieval.
 
-It’s an easy enough project that I think I might setup a process on-line to let other cosplayers order them from me as well! ![😉](/wp-content/uploads/2016/01/1f609.png)
+It’s an easy enough project that I think I might setup a process on-line to let other cosplayers order them from me as well! ![😉](/assets/article_images/imported/2016/01/1f609.png)

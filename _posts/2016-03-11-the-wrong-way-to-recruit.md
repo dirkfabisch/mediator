@@ -6,7 +6,7 @@ author: Sargonas
 layout: post
 guid: 'http://sargonas.com/?p=374'
 permalink: /the-wrong-way-to-recruit/
-image: '/wp-content/uploads/2016/03/59843402.jpg'
+image: '/assets/article_images/imported/2016/03/59843402.jpg'
 categories:
     - Rants
 tags:

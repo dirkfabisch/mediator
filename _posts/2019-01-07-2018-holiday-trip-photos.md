@@ -6,7 +6,7 @@ author: Sargonas
 layout: post
 guid: 'http://sargonas.com/?p=643'
 permalink: /2018-holiday-trip-photos/
-image: '/wp-content/uploads/2019/01/2018-12-28-06.28.08-825x510.jpg'
+image: '/assets/article_images/imported/2019/01/2018-12-28-06.28.08-825x510.jpg'
 categories:
     - Adventures
     - Personal

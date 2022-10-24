@@ -1,10 +1,10 @@
 ---
-title: What happened to Honored
+title: What happened to Honored?
 author: Sargonas
 layout: page
 ---
 
-[![](https://sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2022/02/landing_logo.jpg)](https://sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2022/02/landing_logo.jpg)
+[![](/assets/article_images/imported/2022/02/landing_logo.jpg)](/assets/article_images/imported/2022/02/landing_logo.jpg)
 
 I’m often asked to give folks a better understanding on what happened with Honored, truth be told it’s a hard story to tell in short summary, and so it’s much easier to refer folks to this summary so that one, I don’t miss any details and 2: the details are laid out consistently each time.  
   

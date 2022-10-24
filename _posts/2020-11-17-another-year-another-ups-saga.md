@@ -7,8 +7,8 @@ layout: post
 guid: 'http://sargonas.com/?p=68466'
 permalink: /another-year-another-ups-saga/
 amazonS3_cache:
-    - 'a:4:{s:53:"//sargonas.com/wp-content/uploads/2020/11/image-1.png";a:2:{s:2:"id";i:68468;s:11:"source_type";s:13:"media-library";}s:93:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2020/11/image-1.png";a:2:{s:2:"id";i:68468;s:11:"source_type";s:13:"media-library";}s:51:"//sargonas.com/wp-content/uploads/2020/11/image.png";a:2:{s:2:"id";i:68467;s:11:"source_type";s:13:"media-library";}s:91:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2020/11/image.png";a:2:{s:2:"id";i:68467;s:11:"source_type";s:13:"media-library";}}'
-image: '/wp-content/uploads/2020/11/6a00cdf3a48471cb8f00e398bde9580004.jpeg'
+    - 'a:4:{s:53:"//sargonas.com/assets/article_images/imported/2020/11/image-1.png";a:2:{s:2:"id";i:68468;s:11:"source_type";s:13:"media-library";}s:93:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2020/11/image-1.png";a:2:{s:2:"id";i:68468;s:11:"source_type";s:13:"media-library";}s:51:"//sargonas.com/assets/article_images/imported/2020/11/image.png";a:2:{s:2:"id";i:68467;s:11:"source_type";s:13:"media-library";}s:91:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2020/11/image.png";a:2:{s:2:"id";i:68467;s:11:"source_type";s:13:"media-library";}}'
+image: '/assets/article_images/imported/2020/11/6a00cdf3a48471cb8f00e398bde9580004.jpeg'
 categories:
     - Personal
     - Rants
@@ -47,7 +47,7 @@ This morning I watched it closely so I would know when to walk over to get it, a
 “Address Information Required  
 The shipping address provided is either incorrect or incomplete. “
 
-![](/wp-content/uploads/2020/11/image-1.png)Bear in mind I played no part in specifying the UPS store’s address… it was pre-filled by the UPS website when I selected “deliver to a store” as an option to re-route it and picked this location from the drop down. How on earth could the address in their system for one of the busier UPS locations in the area be WRONG?
+![](/assets/article_images/imported/2020/11/image-1.png)Bear in mind I played no part in specifying the UPS store’s address… it was pre-filled by the UPS website when I selected “deliver to a store” as an option to re-route it and picked this location from the drop down. How on earth could the address in their system for one of the busier UPS locations in the area be WRONG?
 
 I looked it up… it’s not.
 
@@ -59,4 +59,4 @@ Sure they will. Sure they will…
 
 UPS is the worst… and I just want my damned iPhone
 
-![](/wp-content/uploads/2020/11/image.png)EDIT: Well, I have my iPhone! At the 1 hour mark with no call I resigned myself to calling UPS every single hour once the window closed, untill I got clarity. So I called back and while the nice lady was helping track down a human in real time who can help locally rather than make me wait, we both got a notification at the same time that it had just been delivered. I thanked her and hopped off the phone and ran over to the UPS store to get it and sure enough it was there. Best part? The store manager says a regular driver did not drop it off… but that someone in a UPS polo and jeans with an employee lanyard pulled up in a car and brought it in just moments ago.
+![](/assets/article_images/imported/2020/11/image.png)EDIT: Well, I have my iPhone! At the 1 hour mark with no call I resigned myself to calling UPS every single hour once the window closed, untill I got clarity. So I called back and while the nice lady was helping track down a human in real time who can help locally rather than make me wait, we both got a notification at the same time that it had just been delivered. I thanked her and hopped off the phone and ran over to the UPS store to get it and sure enough it was there. Best part? The store manager says a regular driver did not drop it off… but that someone in a UPS polo and jeans with an employee lanyard pulled up in a car and brought it in just moments ago.

@@ -7,8 +7,8 @@ layout: post
 guid: 'https://sargonas.com/?p=185450'
 permalink: /dear-amazon-i-am-not-some-random-guy-in-forney-tx/
 amazonS3_cache:
-    - 'a:8:{s:51:"//sargonas.com/wp-content/uploads/2022/04/image.png";a:2:{s:2:"id";i:185475;s:11:"source_type";s:13:"media-library";}s:91:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2022/04/image.png";a:2:{s:2:"id";i:185475;s:11:"source_type";s:13:"media-library";}s:53:"//sargonas.com/wp-content/uploads/2022/04/image-1.png";a:2:{s:2:"id";i:185500;s:11:"source_type";s:13:"media-library";}s:62:"//sargonas.com/wp-content/uploads/2022/04/image-1-1024x432.png";a:2:{s:2:"id";i:185500;s:11:"source_type";s:13:"media-library";}s:93:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2022/04/image-1.png";a:2:{s:2:"id";i:185500;s:11:"source_type";s:13:"media-library";}s:102:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2022/04/image-1-1024x432.png";a:2:{s:2:"id";i:185500;s:11:"source_type";s:13:"media-library";}s:53:"//sargonas.com/wp-content/uploads/2022/04/image-2.png";a:2:{s:2:"id";i:185501;s:11:"source_type";s:13:"media-library";}s:93:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/wp-content/uploads/2022/04/image-2.png";a:2:{s:2:"id";i:185501;s:11:"source_type";s:13:"media-library";}}'
-image: '/wp-content/uploads/2022/04/amazon-666x627.png'
+    - 'a:8:{s:51:"//sargonas.com/assets/article_images/imported/2022/04/image.png";a:2:{s:2:"id";i:185475;s:11:"source_type";s:13:"media-library";}s:91:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2022/04/image.png";a:2:{s:2:"id";i:185475;s:11:"source_type";s:13:"media-library";}s:53:"//sargonas.com/assets/article_images/imported/2022/04/image-1.png";a:2:{s:2:"id";i:185500;s:11:"source_type";s:13:"media-library";}s:62:"//sargonas.com/assets/article_images/imported/2022/04/image-1-1024x432.png";a:2:{s:2:"id";i:185500;s:11:"source_type";s:13:"media-library";}s:93:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2022/04/image-1.png";a:2:{s:2:"id";i:185500;s:11:"source_type";s:13:"media-library";}s:102:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2022/04/image-1-1024x432.png";a:2:{s:2:"id";i:185500;s:11:"source_type";s:13:"media-library";}s:53:"//sargonas.com/assets/article_images/imported/2022/04/image-2.png";a:2:{s:2:"id";i:185501;s:11:"source_type";s:13:"media-library";}s:93:"//sargonas-net.s3.us-west-2.amazonaws.com/sargonas.com/assets/article_images/imported/2022/04/image-2.png";a:2:{s:2:"id";i:185501;s:11:"source_type";s:13:"media-library";}}'
+image: '/assets/article_images/imported/2022/04/amazon-666x627.png'
 categories:
     - Rants
 tags:
@@ -32,7 +32,7 @@ I’ve tried calling Amazon support, and the first time I got an agent who was V
   
 So then I took matters into my own hands, and tried to create a new Amazon account using this email address. When I signed up with the email I got a screen that said “You indicated you are a new customer, but an account already exists with this email address”.
 
-![](/wp-content/uploads/2022/04/image.png)
+![](/assets/article_images/imported/2022/04/image.png)
 
 I then clicked the “Create a new account with this email address” link below that, which prompted me with “the old account will have this email address removed and deactivated, and a new account will be created with this email, once we verify your ownership of this address. Please click here to send a verification email to your account.” SCORE! That’s exactly what I want to happen!  
   
@@ -53,7 +53,7 @@ He put me on hold, looking for someone a bit more specialized, and came back to 
   
 He sent me a signup link to the email address in question, and I clicked it. Problem is, the form was… not the best for my problem. It is for reporting unauthorized account activity. He *swore* this was a byproduct of the roundabout way they were backdooring me into this team at their instructions, but I was dubious. To me this *screamed* “falling through the cracks again” but he insisted the team asked we get my account to them this way.
 
-[![](/wp-content/uploads/2022/04/image-1-1024x432.png)](/wp-content/uploads/2022/04/image-1.png)[![](/wp-content/uploads/2022/04/image-2.png)](/wp-content/uploads/2022/04/image-2.png)I filled out the far, FAR too short text box of 200 characters, and hit submit. Ed constantly reassured me the whole time he was flooding my account with notes about this in detail, and that they would all be linked together for this team who had been apprised of my situation and looking forward to this form. He said a correction should take ~24 hours. (Submitting the form also promptly signed me out of my account and forced me to change my password.. yay…)  
+[![](/assets/article_images/imported/2022/04/image-1-1024x432.png)](/assets/article_images/imported/2022/04/image-1.png)[![](/assets/article_images/imported/2022/04/image-2.png)](/assets/article_images/imported/2022/04/image-2.png)I filled out the far, FAR too short text box of 200 characters, and hit submit. Ed constantly reassured me the whole time he was flooding my account with notes about this in detail, and that they would all be linked together for this team who had been apprised of my situation and looking forward to this form. He said a correction should take ~24 hours. (Submitting the form also promptly signed me out of my account and forced me to change my password.. yay…)  
   
 Fast forward 5 hours and I get the following email:
 

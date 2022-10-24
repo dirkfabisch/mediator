@@ -6,7 +6,7 @@ author: Sargonas
 layout: post
 guid: 'https://sargonas.com/?p=150596'
 permalink: /major-life-change-v-2021/
-image: '/wp-content/uploads/2015/12/cropped-1487789_10151805775220509_283896144_o-2-666x480.jpg'
+image: '/assets/article_images/imported/2015/12/cropped-1487789_10151805775220509_283896144_o-2-666x480.jpg'
 categories:
     - Personal
     - Work
