@@ -110,7 +110,8 @@ Just to give you a rough idea of what to expect though, I’m going to walk you 
 
 In any scenario however, mine or yours, we will want to grab ATI-Flash to copy the BIOS files off the card. I then made a backup of that BIOS in a folder somewhere safe and put an additional working-copy somewhere easy to get to. You can grab the utility here: [ATI-Flash Download](https://www.techpowerup.com/download/ati-atiflash/)
 
-I then used the [Polaris Bios Editor ](https://github.com/caa82437/PolarisBiosEditor)to open the working-copy of that bios file, and made the following changes to the memory timings before saving the BIOS to a new file with an easy to reference name:
+I then used the [Polaris Bios Editor]
+(https://github.com/caa82437/PolarisBiosEditor)to open the working-copy of that bios file, and made the following changes to the memory timings before saving the BIOS to a new file with an easy to reference name:
 
 1. *Copy the 1500 strap string to the 1625, 1750, and 2000MHz fields.*
 2. *Then copy the 1425 strap string to the 1500 MHz, 1375 and 1425MHz fields.*

@@ -27,7 +27,7 @@ That aside, now they are jerking me around on my iPhone as well.
 
 On Friday they marked it as undeliverable to my apt even though they never paged me via the call box and my unit’s ring door bell never rang.
 
-I didn’t want to deal with more drama again so I immediately paid money to them on Friday night to have the package re-routed to a local UPS store to make this easier. Annoyingly, the entire weekend it said “re-delivery accepted, please check back later for a new delivery window”. I had hoped it would be a Saturday sort of thing, but, oh well.   
+I didn’t want to deal with more drama again so I immediately paid money to them on Friday night to have the package re-routed to a local UPS store to make this easier. Annoyingly, the entire weekend it said “re-delivery accepted, please check back later for a new delivery window”. I had hoped it would be a Saturday sort of thing, but, oh well.  
   
 On Monday AM I was notified it would arrive by EOD that day at said UPS store.
 

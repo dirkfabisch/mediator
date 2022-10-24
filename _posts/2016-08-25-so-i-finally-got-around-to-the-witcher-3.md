@@ -49,4 +49,4 @@ For the first time in my life, I have put down a game and felt a sense of loss. 
 
 Before I go though, I have to admit one thing, the game is not without it’s bugs. Aside from one that broke a side quest that basically prevented me from accomplishing something major that I *really* wanted to do for the game-world to make it a better place, they were mostly comically and quickly went away. I think I’ll share my favorite with you because it left me in stitches for the entire day…
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="495" loading="lazy" src="https://www.youtube.com/embed/722xSn7yrOg?feature=oembed" title="Bicycle Horse" width="880"></iframe>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="495" loading="lazy" src="https://www.YouTube.com/embed/722xSn7yrOg?feature=oembed" title="Bicycle Horse" width="880"></iframe>

@@ -13,4 +13,4 @@ tags:
     - meta
 ---
 
-So I just got done rebuilding this site from scratch.. and unfortunately due to a security breach at my VPS host a few years ago everything before 2013 was lost for good. As a result, I was going to start fresh but I decided to use the good ole Internet Archive, aka the Way Back Machine, and hand copied over all the blog posts made from around 2010 through the end of 2012. So be warned, every post below this one is from “back in the day”. Take that as you will.
+So I just got done rebuilding this site from scratch.. and unfortunately due to a security breach at my VPS host a few years ago everything before 2013 was lost for good. As a result, I was going to start fresh but I decided to use the good ole internet Archive, aka the Way Back Machine, and hand copied over all the blog posts made from around 2010 through the end of 2012. So be warned, every post below this one is from “back in the day”. Take that as you will.
