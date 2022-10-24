@@ -48,16 +48,16 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/sargonas
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
-
   - icon:	instagram
     url:	https://instagram.com/sargonas
     desc:	I sometimes take pretty pictures
 #    share_url:
 #    share_title:
 #    share_link:
+
+  - icon:	github
+    url:	https://github.com/sargonas
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
