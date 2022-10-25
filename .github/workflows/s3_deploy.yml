@@ -34,8 +34,6 @@ jobs:
         JEKYLL_ENV: production
     - name: "Deploy to AWS S3"
       run: aws s3 sync ./_site/ s3://${{ secrets.AWS_S3_BUCKET_NAME }} --delete --cache-control max-age=604800 --exclude "LICENSE" --exclude "README.md"
-    - name: "Create AWS Cloudfront Invalidation"
-      run: aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
 
   on-failure:
     runs-on: ubuntu-latest
