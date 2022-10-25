@@ -24,18 +24,31 @@ tags:
 
 Pretty happy with some of my photos from my holiday trip to Japan and Hong Kong. I took the best of the best (mostly based on personal preferences and Instagram likes) and threw them together into their own album for posterity. Enjoy!
 
-<div class="photonic-smug-stream photonic-stream " id="photonic-smug-stream-1"><header class="photonic-object-header photonic-smug-album ">[![2018 Holiday](https://photos.smugmug.com/photos/i-GHnGzpj/0/Th/i-GHnGzpj-Th.jpg)](https://www.jrxephoto.com/Street-Photography/2018-Holiday "2018 Holiday")<div class="photonic-header-details photonic-album-details"><div class="photonic-header-title photonic-album-title">[2018 Holiday](https://www.jrxephoto.com/Street-Photography/2018-Holiday)</div><span class="photonic-header-info photonic-album-photos">14 photos</span></div></header><div class="title-display-regular photonic-level-1-container photonic-random-layout photonic-thumbnail-effect-none sizes-missing " data-photonic-gallery-columns="auto" data-photonic-platform="smug" data-photonic-query="columns=auto&layout=random&more=&display=in-page&panel=&filter=&filter_type=include&fx=slide&timeout=4000&speed=1000&pause=1&strip-style=thumbs&controls=show&popup=hide&custom_classes=&alignment=&photo_layout=square&caption=title-desc&thumb_size=Thumb&main_size=Largest&tile_size=same&video_size=Largest&empty=false&view=album&nick_name=jrxephoto&start=1&count=500&photo_count=500&media=photos&album_sort_order=Last Updated (Descending)&type=smugmug&style=default&album=8R33Lc&sort_order=Ascending&sort_method=DateTaken&title_position=regular&overlay_size=Thumb&overlay_video_size=Largest" id="photonic-smug-stream-1-container" style="--tile-min-height: 200px"><figure class="photonic-pad-photos photonic-level-1 photonic-thumb"> [ ![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-ZnBWR8L/0/b2140742/X3/2018-12-28%2006.28.08-X3.jpg)]
-(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-ZnBWR8L/0/b2140742/X3/2018-12-28%2006.28.08-X3.jpg)  <figure class="photonic-pad-photos photonic-level-1 photonic-thumb"> [ ![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-JfM4Dxc/0/cbea2c18/X3/IMG_0692-X3.jpg)]
-(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-JfM4Dxc/0/cbea2c18/X3/IMG_0692-X3.jpg)  <figure class="photonic-pad-photos photonic-level-1 photonic-thumb"> [ ![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-GHnGzpj/0/63318cd8/X3/2018-12-23%2018.07.59-X3.jpg)]
-(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-GHnGzpj/0/63318cd8/X3/2018-12-23%2018.07.59-X3.jpg)  <figure class="photonic-pad-photos photonic-level-1 photonic-thumb"> [ ![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-JjZMZ5C/0/ba6d4419/X3/2018-12-23%2019.44.41-X3.jpg)]
-(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-JjZMZ5C/0/ba6d4419/X3/2018-12-23%2019.44.41-X3.jpg)  <figure class="photonic-pad-photos photonic-level-1 photonic-thumb"> [ ![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-RjFSMC5/0/c4eb32f3/X3/2018-12-27%2021.02.12-X3.jpg)]
-(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-RjFSMC5/0/c4eb32f3/X3/2018-12-27%2021.02.12-X3.jpg)  <figure class="photonic-pad-photos photonic-level-1 photonic-thumb"> [ ![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-tRrHj2Q/0/4a1ef879/X3/IMG_0694-X3.jpg)]
-(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-tRrHj2Q/0/4a1ef879/X3/IMG_0694-X3.jpg)  <figure class="photonic-pad-photos photonic-level-1 photonic-thumb"> [ ![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-2j2cdSx/0/5e841754/X3/2018-12-28%2010.11.41-X3.jpg)]
-(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-2j2cdSx/0/5e841754/X3/2018-12-28%2010.11.41-X3.jpg)  <figure class="photonic-pad-photos photonic-level-1 photonic-thumb"> [ ![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-DFfFwTK/0/8c997873/X3/2018-12-28%2006.07.29-X3.jpg)]
-(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-DFfFwTK/0/8c997873/X3/2018-12-28%2006.07.29-X3.jpg)  <figure class="photonic-pad-photos photonic-level-1 photonic-thumb"> [ ![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-nDLTdfQ/0/ce3a837f/X3/IMG_0690-X3.jpg)]
-(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-nDLTdfQ/0/ce3a837f/X3/IMG_0690-X3.jpg)  <figure class="photonic-pad-photos photonic-level-1 photonic-thumb"> [ ![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-64jFtsD/0/d5e5c7bf/X3/2018-12-29%2001.40.02-X3.jpg)]
-(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-64jFtsD/0/d5e5c7bf/X3/2018-12-29%2001.40.02-X3.jpg)  <figure class="photonic-pad-photos photonic-level-1 photonic-thumb"> [ ![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-KSJmNvM/0/80bd15a0/X3/2018-12-29%2003.45.41-X3.jpg)]
-(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-KSJmNvM/0/80bd15a0/X3/2018-12-29%2003.45.41-X3.jpg)  <figure class="photonic-pad-photos photonic-level-1 photonic-thumb"> [ ![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-59KBCzw/0/60e364ee/X3/2018-12-29%2003.47.26-X3.jpg)]
-(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-59KBCzw/0/60e364ee/X3/2018-12-29%2003.47.26-X3.jpg)  <figure class="photonic-pad-photos photonic-level-1 photonic-thumb"> [ ![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-mc4kQjr/0/92f92574/X3/2018-12-30%2004.24.16-X3.jpg)]
-(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-mc4kQjr/0/92f92574/X3/2018-12-30%2004.24.16-X3.jpg)  <figure class="photonic-pad-photos photonic-level-1 photonic-thumb"> [ ![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-vtMdgw7/0/7fbe096a/X3/2018-12-31%2007.00.58-X3.jpg)]
-(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-vtMdgw7/0/7fbe096a/X3/2018-12-31%2007.00.58-X3.jpg)  </div> <span id="photonic-smug-stream-1-container-end"></span></div>
+[![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-ZnBWR8L/0/b2140742/X3/2018-12-28%2006.28.08-X3.jpg)]
+(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-ZnBWR8L/0/b2140742/X3/2018-12-28%2006.28.08-X3.jpg)
+[![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-JfM4Dxc/0/cbea2c18/X3/IMG_0692-X3.jpg)]
+(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-JfM4Dxc/0/cbea2c18/X3/IMG_0692-X3.jpg)
+[![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-GHnGzpj/0/63318cd8/X3/2018-12-23%2018.07.59-X3.jpg)]
+(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-GHnGzpj/0/63318cd8/X3/2018-12-23%2018.07.59-X3.jpg)
+[![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-JjZMZ5C/0/ba6d4419/X3/2018-12-23%2019.44.41-X3.jpg)]
+(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-JjZMZ5C/0/ba6d4419/X3/2018-12-23%2019.44.41-X3.jpg)
+[![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-RjFSMC5/0/c4eb32f3/X3/2018-12-27%2021.02.12-X3.jpg)]
+(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-RjFSMC5/0/c4eb32f3/X3/2018-12-27%2021.02.12-X3.jpg)
+[![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-tRrHj2Q/0/4a1ef879/X3/IMG_0694-X3.jpg)]
+(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-tRrHj2Q/0/4a1ef879/X3/IMG_0694-X3.jpg)
+[![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-2j2cdSx/0/5e841754/X3/2018-12-28%2010.11.41-X3.jpg)]
+(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-2j2cdSx/0/5e841754/X3/2018-12-28%2010.11.41-X3.jpg)
+[![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-DFfFwTK/0/8c997873/X3/2018-12-28%2006.07.29-X3.jpg)]
+(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-DFfFwTK/0/8c997873/X3/2018-12-28%2006.07.29-X3.jpg)
+[![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-nDLTdfQ/0/ce3a837f/X3/IMG_0690-X3.jpg)]
+(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-nDLTdfQ/0/ce3a837f/X3/IMG_0690-X3.jpg)
+[![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-64jFtsD/0/d5e5c7bf/X3/2018-12-29%2001.40.02-X3.jpg)]
+(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-64jFtsD/0/d5e5c7bf/X3/2018-12-29%2001.40.02-X3.jpg)
+[![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-KSJmNvM/0/80bd15a0/X3/2018-12-29%2003.45.41-X3.jpg)]
+(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-KSJmNvM/0/80bd15a0/X3/2018-12-29%2003.45.41-X3.jpg)
+[![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-59KBCzw/0/60e364ee/X3/2018-12-29%2003.47.26-X3.jpg)]
+(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-59KBCzw/0/60e364ee/X3/2018-12-29%2003.47.26-X3.jpg)
+[![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-mc4kQjr/0/92f92574/X3/2018-12-30%2004.24.16-X3.jpg)]
+(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-mc4kQjr/0/92f92574/X3/2018-12-30%2004.24.16-X3.jpg)
+[![](https://photos.smugmug.com/Street-Photography/2018-Holiday/i-vtMdgw7/0/7fbe096a/X3/2018-12-31%2007.00.58-X3.jpg)]
+(https://photos.smugmug.com/Street-Photography/2018-Holiday/i-vtMdgw7/0/7fbe096a/X3/2018-12-31%2007.00.58-X3.jpg)
