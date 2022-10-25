@@ -40,7 +40,6 @@ jobs:
   on-failure:
     runs-on: ubuntu-latest
     if: ${{ github.event.workflow_run.conclusion == 'failure' }}
-    - uses: actions/github-script@v3
-      with:
-        script: |
-          core.setFailed('Linter failed, skipping deploy.')
+    steps:
+    - name: "Linter failed, skipping deploy"
+      run: exit 1
