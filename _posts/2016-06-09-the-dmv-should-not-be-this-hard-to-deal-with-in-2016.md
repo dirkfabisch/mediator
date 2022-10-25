@@ -6,7 +6,7 @@ author: Sargonas
 layout: post
 guid: 'http://sargonas.com/?p=402'
 permalink: /the-dmv-should-not-be-this-hard-to-deal-with-in-2016/
- image: '/assets/article_images/imported/2016/06/cropped-7-15-10-blog-logo-825x160.jpg'
+image: '/assets/article_images/imported/2016/06/cropped-7-15-10-blog-logo-825x160.jpg'
 categories:
     - Personal
     - Rants
