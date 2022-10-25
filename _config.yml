@@ -1,3 +1,4 @@
+---
 # Build settings
 plugins:
   - jemoji
@@ -16,8 +17,8 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cover.jpg"
 
-name: 'J. "Sargonas" Eckert'
-author: 'J. "Sargonas" Eckert'
+name: "J. 'Sargonas' Eckert"
+author: "J. 'Sargonas' Eckert"
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
@@ -25,7 +26,7 @@ paginate:	5
 url: "http://sargonas.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@sargonas'
+twitter_handle: "@sargonas"
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
