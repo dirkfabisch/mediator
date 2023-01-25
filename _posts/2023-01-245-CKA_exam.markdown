@@ -3,7 +3,7 @@ layout: post
 title:  "CKA Exam"
 date:   2023-01-30 21:36:00
 categories: CKA Exam
-tags: certifications
+tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
