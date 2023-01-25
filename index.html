@@ -51,9 +51,8 @@ layout: default
         </article>
       {% endfor %}
     </div>
-
+    {% else %}
     <h5 class="index-headline normal"><span>Regular</span></h5>
-    {% endif %}
 
     <div class="cf frame">
       {% for post in paginator.posts %}
@@ -73,6 +72,7 @@ layout: default
         </article>
       {% endfor %}
     </div>
+    {% endif %}
 
     <nav class="pagination" role="navigation">
       {% if paginator.next_page %}
