@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "CKA Exam"
-date:   2023-01-30 21:36:00
-categories: CKA Exam
+title:  "Mediator Features"
+date:   2014-11-30 14:34:25
+categories: mediator feature
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
@@ -17,6 +17,7 @@ Examples for different formats and css features
 
 #Blockquotes
 >Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+
 #Lists
 ##orderd lists
 1. one
