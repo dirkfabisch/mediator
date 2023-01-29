@@ -9,7 +9,7 @@ tags: featured
 
 <h1>Background</h1>
 
-I have been working with Kubernetes for quite a while. Approximately 2-1.5 years if my memory is correct, most time as an admin. I feel like it is important to share this because some people might want to jump straight into taking the certification, which I think is completely valid and possible, although I don't recommend it, and it might be a bit harder without much previous exposure to k8s. I do think having passed the CKAD https://www.cncf.io/certification/ckad/ prior to taking the CKA was helpful, consider doing so if you are somewhat new to Kubernetes.
+I have been working with Kubernetes for quite a while. Approximately 2-1.5 years if my memory is correct, most time as an admin. I feel like it is important to share this because some people might want to jump straight into taking the certification, which I think is completely valid and possible, although I don't recommend it, and it might be a bit harder without much previous exposure to k8s. I do think having passed the [CKAD](https://www.cncf.io/certification/ckad/ "CKAD Certification") prior to taking the CKA was helpful, consider doing so if you are somewhat new to Kubernetes.
 
 <h1>Buying the Exam Vouchers</h1>
 
@@ -20,20 +20,20 @@ Okay, so you have decided you want to take your CKA exam. I recommend you to buy
 This is definitely a cert you want to study for. Even if you are a current Kubernetes administrator at work, there are lots of topics that you might not interact with on a daily basis. For example, I'd never had the need to install Kubernetes via Kubeadm, backup Etcd, or use nginx as the load balancer for my cluster. These are tasks that most Kubernetes engines can do without the admin having directly mess with the binaries that interact with the control plane components.
 
 <h1>Resources</h1>
-
+ 
 The route I took might be a good fit for you if you come from a similar background. This is not an ultimate guide, but just the study resources that worked for me in this specific order:
 
-1. CKA Course by [KodeKloud](https://kodekloud.com/courses/certified-kubernetes-administrator-cka/ "KodeKloud's CKA Course"). - You can also buy the [Udemy course](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) only, it comes with the same materials as the website's course.
+- CKA Course by [KodeKloud](https://kodekloud.com/courses/certified-kubernetes-administrator-cka/ "KodeKloud's CKA Course"). - You can also buy the [Udemy course](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/ "CKA Course on Udemy - KodeKloud") only, it comes with the same materials as the website's course.
 
 I like this interface because the instructor explains the topic and provides a good background if you are not familiar with it. After finishing the video/lecture, there are some labs that you can use to test yourself, make sure to try to complete those without revealing any hints/solutions to make sure you are mastering the materials covered. A good thing to do before taking the exam is redoing all the labs that you felt were confusing, as well as doing all the practice tests to warm up. In my opinion, the tests are only good as practice, I will explain why on the next bullet point.
 
-2. [killer.sh CKA Simulator](https://killer.sh/cka "Killer Shell CKA Simulation Tests")
+- [killer.sh CKA Simulator](https://killer.sh/cka "Killer Shell CKA Simulation Tests")
 
 I feel like this is a must before taking the exam. I believe every test comes with 2 free killer.sh CKA simulators (please correct me if I am wrong, I bought my exam long time ago), take advantage of these. They provide a VERY similar interface to what the exam provides. Basically, it is a VM interface over the browser where you can open your terminal and a browser, where you can use the [official k8s documentation](https://kubernetes.io/docs/home/ "Official Kubernetes Documentation"). Make sure to take your first attempt after being done with the KodeKloud lecture. You will probably score low, don't freak out. After you take the simulation, there is a page that will tell you which questions you got right/wrong and a very detailed explanation to the correct and fastest answer. Go over every single question that you got wrong or that took you too long to answer (this is important), and make sure to UNDERSTAND why you got it wrong. If you spent too much time on a question that you got right, go over the recommended solution, chances are there is some material that you need to read a couple of times that is slowing you down, or you just don't know the fastest way of solving the challenge. If you have the time, still go over those questions you got right and are confident about, chances are there is some cool k8s commands you didn't know about that might be better than the ones you used to solve the question.
 
 Once you have done this, retake the practice test, you will get the same exact questions. Make sure you manage time better this time, if you are taking too long on a question, skip it, this will be vital during the real exam. Aim for a high score this time (90s-100 if possible). Repeat the same process mentioned in the previous paragraph with those questions you got wrong again.
 
-3. Review those materials where you struggled with on both the KodeKloud and killer.sh, on the official Kubernetes documentation, it will be really helpful during the exam to know how to navigate it faster.
+- Review those materials where you struggled with on both the KodeKloud and killer.sh, on the official Kubernetes documentation, it will be really helpful during the exam to know how to navigate it faster.
 
 <h1>General Recommendations</h1>
 
