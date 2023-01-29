@@ -1,38 +1,55 @@
 ---
 layout: post
 title:  "CKA Exam"
-date:   2023-01-24 22:40:40
+date:   2023-01-29 22:41:45
 categories: certifications
 tags: featured
 ---
-#Mediator Formats and CSS features
+>Last week I took the Certified Kubernetes Administrator exam (CKA). I thought it would be a good idea to share what my experience was like and offer a very simple guide based on my perspective and opinion, so others can be better prepared when they take it.
 
-Examples for different formats and css features
+<h1>Background</h1>
 
-#Header Formats
-#Header1
-##Header2
+I have been working with Kubernetes for quite a while. Approximately 2-1.5 years if my memory is correct, most time as an admin. I feel like it is important to share this because some people might want to jump straight into taking the certification, which I think is completely valid and possible, although I don't recommend it, and it might be a bit harder without much previous exposure to k8s. I do think having passed the CKAD https://www.cncf.io/certification/ckad/ prior to taking the CKA was helpful, consider doing so if you are somewhat new to Kubernetes.
 
-#Blockquotes
->Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+<h1>Buying the Exam Vouchers</h1>
 
-#Lists
-##orderd lists
-1. one
-2. two
-3. three
+Okay, so you have decided you want to take your CKA exam. I recommend you to buy your exam vouchers during some type of holiday, as the Cloud Native Computing Foundation likes to offer a discount for the vouchers often. I like to buy mine during Black Friday/Cyber Monday, but this is just my preference. Alternatively, you can receive coupons from the CNCF if you contribute to any of their open source projects. In general, I recommend getting some type of discount when buying your test voucher since it be kind of pricey.
 
-##unorderd lists
-- Apple
-- Banana
-- Plum
+<h1>Study!</h1>
 
-#Links
-This is an [example link](http://example.com/ "With a Title").
+This is definitely a cert you want to study for. Even if you are a current Kubernetes administrator at work, there are lots of topics that you might not interact with on a daily basis. For example, I'd never had the need to install Kubernetes via Kubeadm, backup Etcd, or use nginx as the load balancer for my cluster. These are tasks that most Kubernetes engines can do without the admin having directly mess with the binaries that interact with the control plane components.
 
-#Combinations
->Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
->
-> - Apple
-> - Banana
-> - Plum
+<h1>Resources</h1>
+
+The route I took might be a good fit for you if you come from a similar background. This is not an ultimate guide, but just the study resources that worked for me in this specific order:
+
+1. CKA Course by [KodeKloud](https://kodekloud.com/courses/certified-kubernetes-administrator-cka/ "KodeKloud's CKA Course"). - You can also buy the [Udemy course](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) only, it comes with the same materials as the website's course.
+
+I like this interface because the instructor explains the topic and provides a good background if you are not familiar with it. After finishing the video/lecture, there are some labs that you can use to test yourself, make sure to try to complete those without revealing any hints/solutions to make sure you are mastering the materials covered. A good thing to do before taking the exam is redoing all the labs that you felt were confusing, as well as doing all the practice tests to warm up. In my opinion, the tests are only good as practice, I will explain why on the next bullet point.
+
+2. [killer.sh CKA Simulator](https://killer.sh/cka "Killer Shell CKA Simulation Tests")
+
+I feel like this is a must before taking the exam. I believe every test comes with 2 free killer.sh CKA simulators (please correct me if I am wrong, I bought my exam long time ago), take advantage of these. They provide a VERY similar interface to what the exam provides. Basically, it is a VM interface over the browser where you can open your terminal and a browser, where you can use the [official k8s documentation](https://kubernetes.io/docs/home/ "Official Kubernetes Documentation"). Make sure to take your first attempt after being done with the KodeKloud lecture. You will probably score low, don't freak out. After you take the simulation, there is a page that will tell you which questions you got right/wrong and a very detailed explanation to the correct and fastest answer. Go over every single question that you got wrong or that took you too long to answer (this is important), and make sure to UNDERSTAND why you got it wrong. If you spent too much time on a question that you got right, go over the recommended solution, chances are there is some material that you need to read a couple of times that is slowing you down, or you just don't know the fastest way of solving the challenge. If you have the time, still go over those questions you got right and are confident about, chances are there is some cool k8s commands you didn't know about that might be better than the ones you used to solve the question.
+
+Once you have done this, retake the practice test, you will get the same exact questions. Make sure you manage time better this time, if you are taking too long on a question, skip it, this will be vital during the real exam. Aim for a high score this time (90s-100 if possible). Repeat the same process mentioned in the previous paragraph with those questions you got wrong again.
+
+3. Review those materials where you struggled with on both the KodeKloud and killer.sh, on the official Kubernetes documentation, it will be really helpful during the exam to know how to navigate it faster.
+
+<h1>General Recommendations</h1>
+
+- Be familiar with Vim, you can probably get around with installing Nano or your preferred text editor, but I would not recommend this. Make sure to at the very minimum know how to edit a file, save a file, look for a particular string, set the line numbers, copy multiple lines at once (yank), paste, and delete multiple lines at once.
+
+- Get some extra hardware if possible: A dedicated webcam (not your laptop's, make sure it has autofocus as this is a requirement from the exam provider), a keyboard with home/end keys (if you're like me and forget basic key bindings), a mouse, and an external monitor (something somewhat wide) made a HUGE difference when I retook my exam (I failed on the first try and didn't use these). I am not advocating for you to buy any of these (I didn't), but if you already have them available, make an effort to use them. During the exam, the proctor asks you to rotate the camera to make sure you don't have any notes/et al. around you that might be considered cheating resources, having an external webcam made this way easier and less awkward than rotating my entire laptop. You will need to close your laptop lid though, make sure to configure it to work with an external monitor/mouse/keyboard/webcam beforehand (only 1 monitor, 1 keyboard, et al. is allowed during the exam).
+
+- Time yourself, don't spend too much time on one question, if you feel like it is a hard question, leave it for later. The best thing you want to do it to go over every single question in the exam, the exam does not increase in complexity as the question number increases, this is completely arbitrary. 
+
+<h1>Failing the Exam</h1>
+
+In the case you fail the exam on your first try, schedule a retake. You will get an email from the Cloud Native Computing Foundation, I think you have to wait at least 1 day after getting the email to schedule it. Please give yourself time to go over the materials where you feel you struggled, I don't think there is a limit on when you can schedule it as long as it doesn't land after the voucher has expired (the email will tell you). Chances are you didn't have as much time as I did when I was studying for my first try, and that's why you failed. Another thing that made me fail was spending too much time on one question, I feel like I did this because of my brain being stubborn, don't be like me and go through all the questions, I didn't even get to the second to the last question when I failed the exam on my first try. Make sure to use all the detailed guides on the internet that might offer better advice than what I can give, and please do not get discouraged, failure is part of success. Do everything in your hands to pass it the second time, because the exam vouchers are quite expensive. Most importantly, make sure to understand everything the exam syllabus covers.
+
+<h1>Conclusion</h1>
+
+The CKA exam is a good exam for those with some admin experience with Kubernetes that want to validate/expand/harden their skills, or for those that want to learn more about Kubernetes. This cert definitely solidified some of the Kubernetes topics that I wasn't very familiar with, or I simply had not been exposed to. Have fun while learning Kubernetes from an admin's perspective, and make sure to dedicate enough time to study for the exam, so you can pass it on your first or second try!
+
+<i>Special thanks to Stuart Williams, Dalton Hill, Oscar Rodriguez, Raafat Seif and Michael Saenz for their recommendations and knowledge shared!</i>
+
