@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pulling an image with a digest: alternatives"
-date:   2023-05-25 22:41:45
+date:   2023-06-26 22:41:45
 categories: images
 tags: featured
 ---
